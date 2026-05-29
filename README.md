@@ -19,7 +19,7 @@ Given a folder of `.docx` interview transcripts, the script:
 
 ## Architecture decisions
 
-**Coded excerpts, not briefs.** Marrative summaries ("briefs") per participant compounds LLM translation errors: the model paraphrases the transcript, then the synthesis re-interprets the paraphrase. The current design extracts verbatim quotes only — the LLM selects which quotes are relevant and assigns codes, but does not reword them.
+**Coded excerpts, not briefs.** Narrative summaries (briefs) per participant compounds LLM translation errors: the model paraphrases the transcript, then the synthesis re-interprets the paraphrase. The current design extracts verbatim quotes only — the LLM selects which quotes are relevant and assigns codes, but does not reword them.
 
 **Batch codebook generation.** The codebook is generated from all 5 seed transcripts together in one call, not per-transcript then consolidated. This produces a leaner codebook because the model can see cross-participant patterns rather than coding each person's idiosyncratic phrasing independently.
 
