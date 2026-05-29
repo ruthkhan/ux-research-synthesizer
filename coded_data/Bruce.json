@@ -1,0 +1,60 @@
+{
+  "participant": "Bruce",
+  "interview_timestamp": "2026-05-27T16:46:21.587346",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I would probably resist that whole - just wholesale taking what quality means from quantitative research and expecting it to work in qualitative research.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "If you think reading is an interaction between the text and the reader, then inevitably two people are going to read the data in different ways - and that's not a bad thing. But it's an inevitable thing.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "The participant frames qualitative analysis as a subjective interpretive act between the reader and the text, contrasting this paradigm with positivist expectations of uniform replication."
+    },
+    {
+      "quote": "Even if you anonymize and take out all the names and all the references to the places, it's still possible to start to get a sense of, you know who's somebody is aware, they're talking from and all the rest of it",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "And some people were worried that what people the interviewees were saying was politically sensitive and might pull them at risk, so then they got that permission - on that basis to not make the data publicly accessible, because it had, you know, to protect the participants.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "Do I have to worry about the fact that that is meaningless to somebody else who doesn't come from the Northeast and, you know, all that. so there's the whole, like that process of transcribing, and whether you [are] retaining or facing the speaker’s voice, and is that intelligible to somebody else and so on.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "The participant is concerned that regional dialects and accents might lose their meaning or context when translated to transcripts in public archives, or that standardizing them erases the speaker's voice."
+    },
+    {
+      "quote": "I've been in a project where they did wholesale DNA identification before it. Got to analysis, and that produced a massive backlog in [the] project or a massive bottle neck because the day it took ages for the people at the identifying, identifying all the interviews that were done.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The transcription term 'DNA identification' is an apparent transcript error for 'de-identification'. This quote highlights the significant labor, time delays, and project bottlenecks associated with manually de-identifying data."
+    },
+    {
+      "quote": "So my data management plan and my time planning in my budgeting are all sort of wrapped up together.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "NVivo is less open to archiving processes. So what you can archive is like your coding tree or whatever, and you know, your code book, those sorts of things. But the actual project remains not non-interoperable. So that's a bit of a barrier",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "The participant notes that proprietary software like NVivo creates barriers to sharing active, fully coded datasets due to a lack of interoperable file standards."
+    }
+  ]
+}

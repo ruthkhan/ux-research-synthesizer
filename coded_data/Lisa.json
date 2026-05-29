@@ -1,0 +1,365 @@
+{
+  "participant": "Lisa",
+  "interview_timestamp": "2026-05-27T16:46:21.736775",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "Yeah, which Creative Commons license are you going to use on it just out of curiosity?",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The participant's question about the specific Creative Commons license indicates an awareness and interest in the practical details of open data sharing, aligning with the commitment to making data as open as possible."
+    },
+    {
+      "quote": "So, in terms of methods, I'm never entirely sure what's in scope when people ask about methods, but basically, for this project, it was my PhD project and I was using semi-structured, participant-focused inquiry. So it was influenced by grounded theory, epistemologically, but it wasn't grounded theory. I was just thinking about that method of building theory from the data as I went forward, and yeah, the actual method was, as I say, participant focused semi structured interviews. There was some observation as well, but that wasn't the main focus of the data gathering, that was supplementary.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "I used NVivo.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "Mentioning the use of NVivo indicates a specific software tool employed in qualitative analysis, which can be linked to the context of technical tools that may present limitations in open qualitative research workflows."
+    },
+    {
+      "quote": "So that's the really time-consuming stuff, you know, where you're going through the transcript and you're identifying the phrases and you're looking for the topics. And that's, that took me weeks and weeks and weeks and weeks and weeks. I had no idea how time-consuming that was until I did it.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "And I thought, Well, my department was unhappy with me trying to use a grounded theory approach. So I said, you know, what I'm going to do is be participant focused. So I'm going to allow the participants, or encourage the participants, because I'm not in charge, so I'm not allowing them - supporting them to lead me.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "the only thing I didn't include was, em, when I was sexually harassed during an interview. And I know women researchers face this a lot and it's not captured enough in the reporting. We get a lot of crap to deal with, and so I used that as a way of you know, I discounted people who did that. I thought, well, you know, that's too far for me. I'm going to make that decision as a researcher to not include that material.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The researcher's decision to exclude sensitive material that caused personal harm during the interview is a form of data management driven by ethical considerations, aligning with protecting the integrity of the research process and researcher, which is analogous to preventing participant harm or disclosure."
+    },
+    {
+      "quote": "So I was situating myself in these two areas of knowledge and translating case by case. So some people I spoke to in the art world were extremely technologically thoughtful and knowledgeable. And other artists had no idea what the hell I was talking about! And so it was about translating and tuning the language to make sure that I was getting the information that I needed from them and to do my best to ensure they understood the question and could give me a useful answer. So that's partly why the interviews were so long.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "The effort to 'translate and tune the language' during interviews to ensure participant understanding is a practice that mitigates the risk of misinterpretation of data (contextual loss) for both primary and potential secondary users. The resulting longer interviews also directly relate to time constraints."
+    },
+    {
+      "quote": "So I have very limited experience of reusing somebody else's qual [data] in this project that I'm talking about.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA"
+      ]
+    },
+    {
+      "quote": "using other people's qual, very raw qual data, from that experience made me think a lot about how important it is to make your data transparently documented so that it is reusable.",
+      "codes": [
+        "SECONDARY_USER_CONSULTATION_AND_CITATION",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "The emphasis on transparent documentation for reusability directly relates to practices aimed at preserving context and preventing misinterpretation for secondary users."
+    },
+    {
+      "quote": "I started looking at the work from Golafshani, about how you constitute reliability and validity in qual work, and I was really pleased that somebody else looked at this in a lot of detail, you know, and she's put a lot of effort into thinking about how you make qual clear, valid, transparent, high quality and I loved her framework of credibility, transferability, dependability, and confirmability.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "Because some quant-focused people don't tend to get what qual is about, they don't seem to understand how difficult it is to do well.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "I find that some quant people don't seem to understand how rigorous qualitative work has to be, to be good quality.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "I think it's only good quality research practice. I mean, if you're making work in any method or discipline that you don't want other people to scrutinize, then there's a problem, in my view. You know, you should be doing any research you do in the knowledge that somebody else can, and should, be looking at it. And so you should be documenting your decisions. You should be being as transparent as possible. You should be doing that wonderful thing people do in qual work, but not in quant, which is to document your biases and your positioning, so people know where you're coming from and what's important to you, and you know where you're starting from. I think open work is the only way that we improve as scientists and as researchers.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "EPISTEMIC_TENSIONS",
+        "QUALITATIVE_PRE_REGISTRATION"
+      ]
+    },
+    {
+      "quote": "And of course our line is always 'as open as possible, as closed as necessary'.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ]
+    },
+    {
+      "quote": "And then when I went to my participant group, there's something specific about artists which is unusual and interesting, which is that everything they spend time on, they want their name on it. They're not interested in spending time on something that doesn't give them some publicity. They can't afford to be - most people in art are on or near the bread line in one way or another. And if they've given me one to five hours of their time, they want credit for that. So I actually got asked a couple times by participants, 'now, are you going to make sure that I'm identified?'",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT"
+      ]
+    },
+    {
+      "quote": "Now, what I did, when I interview people, is, I always gave them the consent form beforehand. We have the conversation and then at the end they sign off because they know exactly what they've said and what they're happy making public and what they're not happy with. And this is to empower the participant to feel in control of what's being shared.",
+      "codes": [
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES",
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ]
+    },
+    {
+      "quote": "Now, anybody I had who was even slightly worried about disclosure, I sent the text actually to everybody who participated anyway, other than the harassers, obviously. And I asked them to confirm what was - what they had said. And I drew their attention to the bits that they were being quoted directly.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ]
+    },
+    {
+      "quote": "Now they told me all kinds of stuff in interviewS that they wouldn't want made public, things like legal problems, financial difficulties, relationship difficulties, and I just didn't record that. I made my own decision there. I was like, 'I'm not going to put this into the dataset because I want to make this open.' And no matter what, even if they tell me, 'I want to be identified', if this could cause some legal problems then I'm making a judgement call there and I'm willing to take responsibility for that judgement call. So anything that named individuals or companies or talked about something that I considered sensitive, I just didn't put the transcript and I told them this. I said, “I'm not going to put that bit in the transcript” and they're like, “Okay.”",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "The researcher's ethical judgment call to exclude sensitive information, even when participants desired identification, highlights the tension between openness and the 'as closed as necessary' principle, driven by concerns over potential harm or misuse."
+    },
+    {
+      "quote": "But when you have a participant group like artists who really want their name on everything, we run into a bit of a culture shock, you know, there's a clash. And so I haven't been able to find a way around this problem. And I've asked many people who are big names in the policy field. And they're like, 'Oh, that's interesting. I never thought about that.' And you think well, this is, this is partly why it's good to work with artists because they can bring in a different set of assumptions and desires to this work. So that was the problem I ran into. And it's an interesting problem. I love how it shows up a lot of stuff around data and the complexity of qual work. So I think it's a nice problem to have in a way but also it means that I'm an open data advocate and this particular dataset is not open and I feel weird about that. But then it's as open as possible, as closed as necessary. That's where I am with it. It's closed at the moment. Because I don't know how to solve this problem.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "Yeah, loads. Most, mostly cultural, I would say. The technical challenges are amenable to solution with a bit of focus and some funding, but it's the cultural challenges in my view that are [a] difficulty for example.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "This quote highlights the overarching perception that cultural challenges are more significant and harder to overcome than technical challenges in fostering open research, pointing to systemic and social barriers."
+    },
+    {
+      "quote": "But if you're going to undergo training as a new researcher, as an early career researcher, as a graduate student, and you're getting all this really great training about open data, and how it's important and it's about high quality research and data sharing is a good thing and so on. And then you go back to your lab or your office and your supervisor's like, 'over my dead body', then what do you do? People have to listen to their PI, people have to listen to their supervisor, and the house style of how this is done. And I've worked in three different universities in different data-related teams and I've seen how people act and what resources are available. The house style is determined by the senior academics, the PIs, and people that set the policy in-house. So the cultural things are really important and pretty difficult.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "The resistance from senior academics/PIs and the influence of 'house style' on junior researchers' ability to practice open science demonstrate significant institutional obstacles to adopting open research, despite available training."
+    },
+    {
+      "quote": "And also, there's a huge amount of misunderstanding about what open data actually is. And I feel like the message 'as open as possible, as closed as necessary', sometimes gets ignored [or is not well enough understood], and people try and over-characterize [data sharing], out of panic, out of fear, out of whatever it is, insecurity.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The widespread misunderstanding of open data, leading to over-characterization and fear, suggests a lack of clear and tailored guidance specifically for qualitative researchers to navigate the 'as open as possible, as closed as necessary' principle."
+    },
+    {
+      "quote": "And they try and - I've been in meetings where this has happened again and again - people say, Oh, but we can't afford to keep everything and I don't want to keep everything and where will I even put it and why have I got to pay for it and all this kind of stuff.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "And so there's still for me, there's a lack of fundamental understanding about what open data means and how we achieve it, and how we use it to make our research better, and the drivers and the benefits for it, the way that it increases your exposure in the community, the way that it makes your publications more frequently cited, the way that it makes you a better scientist because you're thinking as you go, 'right, how do I explain this to an intelligent, interested, disinterested colleague? How do I explain my biases, my process, the steps of analysis, how I got to my conclusions?'",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "EPISTEMIC_TENSIONS",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The lack of understanding about open data's meaning, achievement, and benefits points to a need for specific guidance. The connection to explaining biases, process, and analysis highlights the epistemological challenges and transparency demands of open qualitative research."
+    },
+    {
+      "quote": "There's so many directions you could go with this. I mean, we need to attack it from all sides, don't we? We need to continue with training and advocacy. We need to make sure that the funders are very clear, whoever the funders might be, they're very clear that this needs to be funded and needs to be funded well. We need to set out the benefits of open research of all kinds, not just qual.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "This quote identifies multiple enabling factors, including the need for robust institutional support through continued training, advocacy, clear funder requirements, and adequate funding for open research initiatives."
+    },
+    {
+      "quote": "I would love to know some way of sustaining and supporting and encouraging people working in qual and using qualitative methods better so that those ethical and bias related and positional pieces of work that qual make you do are more widely adopted. And I think that would help a lot with making the data more widely available, because qualitative researchers would feel more a part of the data conversation. There's still a tendency as far as I can see way too widely for people in qualitative areas - I mean areas that often use qualitative methods: humanities, arts and so on - to see themselves as outside that conversation about open data. And then they're not and they shouldn't be.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "The perceived marginalization of qualitative researchers from the open data conversation and the call for wider adoption of qualitative ethical and positional work highlights epistemic tensions and the need for institutional support to integrate qualitative approaches into open science."
+    },
+    {
+      "quote": "As part of my commitment to validity I shared material where I'd named or quoted an artist with that artist at the end of the writing process. The most critical feedback I received in return was that I had not included as many quotes from them as they had hoped. This is an interesting example of how assumptions around ethics and consent in qualitative research do not always cater for all participant communities.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION",
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "Sharing material with participants for review (collaborative curation) revealed a specific community's desire for more identification (more quotes), exposing a gap in existing ethical assumptions and guidance for qualitative research."
+    },
+    {
+      "quote": "Going forward with a participant-focused approach gave me a lot of reason to share their names and to make that data available. They wanted as many people as possible to see them, to see their contributions, so I guess it was helpful, ultimately.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+      ]
+    },
+    {
+      "quote": "I really want to, and yeah, we've we've discussed the issue that's making me hesitant or - it's nothing to do with not wanting to do it, and I fully acknowledge the vulnerability of doing that, and I've made other smaller qualitative data sets available and shared them before but this feels more important. This is a bigger data set with more people impacted by it. And I want to do my best by them. And so there's a vulnerability there for me like 'am I going to get this right? Am I going to make mistakes? Am I going to do something that I can't change?' And that for me, [it] has helped me a lot in my day to policy work, because going through the process yourself, you understand how it feels, you know, what the real support is and what the real challenges are.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The researcher's hesitation to make a larger, more impactful dataset open, due to feelings of vulnerability and fear of making mistakes, points to anxieties about control and potential participant harm. This also implies a need for clearer guidance and support to mitigate these risks."
+    },
+    {
+      "quote": "Because what I want is for other people to see this data and to see it as a useful resource alongside the thesis and alongside the set of recommendations that I published. I feel like the data - I hope the data would be useful to other people working in this area, or even people who are just looking for good examples of interdisciplinary work, because there's, that's another sort of cultural issue. A lot of people still see everything in terms of disciplines. And it's very difficult to get interdisciplinary work funded and assessed properly. And advocating about how this can be done, I think can be done effectively through presenting an interdisciplinary dataset, along with its supporting materials.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "ADVOCACY_FOR_INTERDISCIPLINARY_OPEN_DATA"
+      ],
+      "inference": "The researcher's desire for her data to be a useful resource, especially for demonstrating interdisciplinary work, highlights a motivation to use open data not just for general access but strategically to advocate for a specific research approach that challenges disciplinary silos."
+    },
+    {
+      "quote": "I really wanted to, for the project that we've been talking about, and I did a data search. As we discussed earlier, I was really hoping somebody had done this work already so I didn't have to do it. And I challenged the assumption that if we're doing a PhD, we have to go out and gather data. I think that should be the activity of last resort. I think ideally, we reuse data that meets our needs and that is well described and that is interoperable across domains. So I was living in hope, but I wasn't massively surprised given the specificity of my work, and the interdisciplinary nature of the research questions, and the work that I was gonna be doing, I would have been amazed if somebody had done this already. There were, there were some people who had published in adjoining areas, but nobody had published exactly on this area. So there wasn't anybody that I could even follow up with individually and say, “Hey, do you have data on this study that you wrote?” So yeah, I'd be very likely to use it if it was available.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ],
+      "inference": "The extensive search for existing data and the strong desire to reuse data underscore the current scarcity of relevant, well-described, and interoperable open qualitative datasets, making secondary analysis a challenge despite its perceived benefits for time and resources."
+    },
+    {
+      "quote": "I always use UKDA stuff because I think what they do is excellent. And it's very high quality, it's well written. Naturally, their concern is mostly about protecting people's identity, and making sure that you have attended to the ethical questions around your data gathering. I found their guidance consistently high quality, that's where I go to be honest. Do you use any other resource? For advice? No, not really. I mean, I read a few textbooks about gathering and sharing qual data and I reflected on earlier work that I'd done about it. But if I want to feel I'm up to date, particularly with things around legislation and policy at the national level, I'm going to check somewhere authoritative like UKDA. I'm not going to rely on older work.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "…well-described open datasets! That's what we need. Yeah I've heard that's an issue. Well described open datasets.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "The explicit call for 'well-described open datasets' directly addresses both the current scarcity of such data and the need for improved documentation to prevent contextual loss and enable effective reuse."
+    },
+    {
+      "quote": "but many universities, and research performing institutions in general, have an official position that they train everybody in how to handle data well, and in my experience, unfortunately, that's not actually true. So the training place is extremely important. And needs to be expanded. It needs to be funded, it needs to be more consistent across the research-producing sector. And it needs to be more up-to-date as well.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "The critique of current university training as insufficient, inconsistent, and underfunded highlights a significant barrier in institutional support for open research practices and points to a lack of effective, up-to-date guidance."
+    },
+    {
+      "quote": "But I think often it's not funded enough. And so you have a voluntary course for, for example, the first year of PhDs. It's not mandatory. It's not assessed. It's not part of what you have to do. And yet it's absolutely critical to good research practice. So, why, in my first year of my PhD, I had to sit exams in a whole bunch of different stuff that was nothing to do with my project. And yet all the data training was voluntary. I don't get that. I think that the data training needs to be mandatory. And data librarians can't do it all. I mean, even the best data librarian in the world can't be there for every new researcher, every ECR, every other person who's looking for data [and do all the training as well]. Data librarians are so important, and they're underfunded as well.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "The observation that data training is voluntary, unassessed, and often underfunded, coupled with the underfunding of data librarians, highlights significant institutional resource constraints and a lack of systematic support for essential open research practices."
+    },
+    {
+      "quote": "So the Open Data aspect was baked in from that point, and that was at the point of application for the funds, not starting the project. And I guess they found something useful in getting a project plan instead of one of those, you know, statements where we're like, I'm interested in the such and such, of such and such. I was like, 'this is the question. This is the research question. And this is how I'm going to answer the research question.'",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ],
+      "inference": "Integrating the open data aspect into the project plan at the funding application stage exemplifies proactive data management planning."
+    },
+    {
+      "quote": "I've already done a pilot version of it. So the earlier pilot was with a slightly different set of people. It was about musicians and performance artists. And I tackled the idea of sharing that data and naming people and I ran into the same problems with the ethics process for making people's identities available. So I knew, going into the PhD, that they would be, it'd be a question people would have.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The experience in a pilot study of participants desiring identification ('naming people') and encountering ethical challenges with making identities available directly relates to the specific context where participant desires clash with de-identification protocols, creating a barrier to openness."
+    },
+    {
+      "quote": "And then when I started doing the project, I just carried that project plan out so there weren't really any surprises and I went into the library and I did a data search with the data librarian and I talked to her about, you know, depositing stuff and how that works. So I raised those questions throughout the process. I'm not really sure how to answer this question other than to say that I was interested in this aspect of it all the way through.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Consulting with a data librarian about depositing data and raising open data questions throughout the project workflow demonstrates a proactive approach to data management and utilizing institutional support."
+    },
+    {
+      "quote": "But going into the data gathering, including the pilot phase, I was gathering people's names because I knew that as an artist myself that your name is important to your career. It's important to your work. So I guess it made those sort of quite fundamental impacts on how I went forward with the data gathering.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The decision to gather participants' actual names from the outset, based on the understanding of artists' professional need for identification, reflects a proactive practice of considering participant preferences as part of the 'as open as possible' principle, even before specific requests were made."
+    },
+    {
+      "quote": "But then when I sent her the text, just to make sure she was comfortable with it. She said, 'Oh, please, can we take the swear out? Because I don't normally talk like that.' I know that's not true, but at the same time I had to respect that and I felt really sad because I love that quote. She was talking about being an older woman as an artist and how you’ve got to stop worrying about what people think, and I loved it, but she she kind of wanted me to change it and so I had to.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The act of sending the transcript for review and respecting a participant's request for redaction, even for minor changes, illustrates collaborative curation and the ongoing need to address participant comfort and potential disclosure challenges."
+    },
+    {
+      "quote": "I don't know through experience on this project. I mean, I know where to go, to ask for help with locating these things. I did that part, the description of datasets is varied. So what I would like is for qual work to be well described, so that I don't have to go through the application and download process just to see if it's what I need. Yeah, I'd like to know that the description will be clear and will give me enough information that I know, this is the dataset that I need, and I'm going to be able to use it and the variables are going to be well described. You know the factors that are being investigated. I want to know that the method is going to be transparent. So this is why I'm interested in data description and access to things like codebooks, access to things like terminologies and vocabularies that people use - those things would help, so that I know if I'm looking up using term X, and I get returns for that search, that they're also about the same understanding of term x as one that I'm using, so I'm really interested in that part of work. I mean, it would be great to have that sense of confidence when you're looking through a database for datasets to use, that the description will be accurate and full and will use recognized terminology.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "The demand for well-described qualitative datasets, transparent methods, codebooks, and standardized terminology highlights a critical barrier related to contextual loss and misinterpretation in secondary data use, suggesting a lack of specific guidance and technical interoperability in data description."
+    },
+    {
+      "quote": "So in different parts of research, particularly this whole idea of everything being in domains, we have a lot of terms that we use within our - if we're working within one domain, which many researchers now don't - but that's another question. If you're working in one domain, there's a set agreement around what certain terms mean. I mean, a great example is 'open'. Now, we're both using the term 'open' here. And we're assuming a shared understanding of that term, but other people have different understandings of what open research is and what Open Data is and how open is open? And is it the same as FAIR? Is it the same as, you know, open science? So there's many terms in research that people assume they're talking about the same thing, and they're actually not. They're talking about different sets of assumptions or qualities.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The discussion about varied understandings of core terms like 'open' across different research domains highlights a significant barrier to effective open data sharing and reuse, contributing to contextual loss and indicating a lack of clear, shared terminology and guidance."
+    },
+    {
+      "quote": "So one of the things I do in my current job is I work on a terminology for research data, and it's something that is an international project and we're trying to make sure that the community feeds into and this is one of the reasons I care about this is my own experience of trying to wade through data description thinking, 'I don't know what this person means. They're using term x, but they're not using it in a way that makes sense to my understanding of term x. So is it worth me downloading this dataset? Is it about something completely different?'",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "Working on a terminology for research data is a proactive practice aimed at improving data description and interoperability, directly addressing the barrier of contextual loss and misinterpretation due to inconsistent terminology in existing datasets."
+    },
+    {
+      "quote": "Yeah, it allows us to increase trust with each other. Not with academia in itself, but to build a sense that we're working together to make the world better as researchers. And you know, it's, we need to be able to work together more instead of always thinking about competition.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "This statement emphasizes the collaborative and trust-building aspects of open research as a desired outcome of a supportive institutional environment, fostering a shared purpose among researchers."
+    },
+    {
+      "quote": "but in my case, I didn't know much about open data, the beginning of my PhD and because I was dealing with a fella Boehner, our population groups in terms of their economic situation, not because my topic was sensitive. I said that in my ethics application that everything would be like fully anonymized in some, many of my participants love, like, rejected to be anonymized. But because they made some sensitive or maybe problematic statements. I decided just to anonymize everyone unless they were like a public figure. But they were like, because I work with, I, interview people from the communities and also from NGOs and government officials. So unless they were a public figure, I anonymized everyone else.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The researcher's experience of initially lacking open data knowledge, working with vulnerable populations, having participants reject anonymization, but ultimately anonymizing due to sensitive statements, highlights significant challenges in balancing participant protection with their desire for identification, and indicates a prior lack of specific guidance for these complex ethical dilemmas."
+    },
+    {
+      "quote": "And I wonder like if someone else like would come to different conclusions to mine or and also like, I feel like my data sets are well, unless I exploit them and I use them and we use them and publish and write and write and write about it. Like nobody else would know about this information I got so yeah, that's uh, that's what I like. Yeah, that's what I was like, oh, like I found that some of this, like some of the information, a lot of information is very valuable and it could, like, belong to, like, many projects. So, so yeah, that's my like, oh, like I should have like, considered this, but I didn't know, and I thought I was like, protect, like, well, I was protecting my participants. Protect them, but, but that's, that's the - that's the tension. No, of course I want to protect them and, but they were like, I mean, they could be edited like redacted interviews and put them up, like, but of course I would need to get consent again for these, and so it's a lot of work.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The researcher's reflection on the value of their data for broader reuse, the tension between protecting participants and sharing data, and the extensive work required for re-consenting and redacting highlights anxieties around control and trust, significant time/resource constraints, and a prior lack of guidance in open data practices for qualitative research."
+    },
+    {
+      "quote": "It's lots of work to do well, and this is what people don't see about qual when they don't do it. They don't see how much work is to do that quality description and attend to those issues in a careful way. It's so much work. So all credit to you for having done it in the first place. You know, it's a huge project.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Lisa's acknowledgement of the significant labor involved in quality data description and careful ethical considerations for qualitative data highlights the substantial time and resource constraints inherent in open qualitative research practices."
+    }
+  ]
+}

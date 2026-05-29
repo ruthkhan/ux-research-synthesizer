@@ -1,0 +1,78 @@
+{
+  "participant": "Jamie",
+  "interview_timestamp": "2026-05-27T16:46:21.652459",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I'm sometimes using Nvivo, but I've found that moving between institutions and licensing has meant that I ended up moving away from trying to rely on paid subscription services. So I tend to have very basic kind of text format data sets that I take around with me",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "The researcher avoids institutional software licensing dependencies by maintaining simplified text-based data formats."
+    },
+    {
+      "quote": "translating it for sociologists or other colleagues in the social sciences, usually I would say, which kind of a constructivist, um to Interpretivist approach, with occasionally somewhat of more of a critical realist lens.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "particularly with participant observation there is, there isn't a standard way of note-taking that would necessarily make those notes accessible for other researchers.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "It could also potentially lead to, like, significant harm to participants, just because of the kind of exploratory research that you often do with participant observation notes. So for example, in my own research working with migrants, it's quite common to come across people who have engaged in certain kinds of illegal activities that - and not, like, violent or anything like that - might be visa overstay, or they might disclose those sorts of bits of information, and having that disclosed as open data could really be quite a big problem.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS"
+      ],
+      "inference": "Sharing raw participant observation notes poses severe threats to vulnerable migrant groups who may have disclosed legally sensitive status details."
+    },
+    {
+      "quote": "archiving for future use with an embargo period could be a potential solution around some of these issues.",
+      "codes": [
+        "TEMPORAL_AND_EMBARGOED_ARCHIVING"
+      ]
+    },
+    {
+      "quote": "I edited it with a couple of key participants into a 50 minute film, and that was a collaborative editorial process. So that was another way of trying to kind of work in more participatory and open ways.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ]
+    },
+    {
+      "quote": "When dealing with these sorts of questions, I think that the question of translation is also a big one. And something that I haven't really heard much spoken about so far, I think there's a closet assumption that data sets collected are in English. And, you know, I, most of my data sets are in Japanese and Chinese.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "there's a real concern that it'll just be used for kind of extractive Big Data style analyses. So you'll end up with the, kind of, rise of armchair researchers to basically treat fieldworkers like, I don't know, you call them data collection monkeys",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "There is anxiety that open data will lead to extractive reuse by researchers who do not understand or respect the intensive labor of field data collection."
+    },
+    {
+      "quote": "I often have spoken scripts for that rather than signed forms, just because In Chinese studies there's a lot of anxiety around collecting written names on documents. So, it's often considered not best practice to cons.., to collect the kinds of standardised consent forms",
+      "codes": [
+        "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS"
+      ],
+      "inference": "Standardized written consent forms are unsuitable and create anxiety in contexts of state surveillance."
+    },
+    {
+      "quote": "I think that, like, my discussion of context probably means that that's where the tension lies, because most qualitative data, particularly from, like, a cross-cultural researcher perspective, you need to have understanding of context.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "probably prefer to actually get in touch with the researcher and see if they wanted to elaborate something rather than just working with the data set by itself.",
+      "codes": [
+        "SECONDARY_USER_CONSULTATION_AND_CITATION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "participant": "Jim",
+  "interview_timestamp": "2026-05-27T16:46:21.716276",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "Yeah, so broadly speaking, I think And it's about it's a valuable thing to do. However, I think there are big, like, challenges with qualitative making qualitative data open.",
+      "codes": [],
+      "inference": "This quote serves as a general statement of the challenges in making qualitative data open, setting the stage for more specific barriers."
+    },
+    {
+      "quote": "Yeah, I think, I think the nature of qualitative data makes it slightly more challenging to make it open. You know, think, so quantitative data, you know, that might just be a spreadsheet of numbers for example, to, you know, put it simplistically I suppose and that is not too difficult to make code, you know, the challenges with that as well. But That's not too difficult. Whereas, if you've got, you know, for example, photographs, that might have people in them, there's issues around anonymity, and Data confidentiality. If you've got field notes, for example, It can be difficult to, you know, there's, there's more challenges in terms of making that into putting that into a format that can then be Openly shared and, you know, transcripts from interviews or focus groups. Sometimes it might be challenges in making those open because some of the things that might be said, in interviews of locust groups, might identify people or And that kind of thing.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS",
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ]
+    },
+    {
+      "quote": "...I haven't ever made any qualitative data open because, well, mainly because the last of like qualitative research I did was quite a few years ago. So it was kind of before I really was aware about open research, I suppose so it didn't really do it then.",
+      "codes": [],
+      "inference": "This quote explains the participant's lack of prior experience with making qualitative data open, framing it as a temporal and awareness-based contextual factor rather than an active barrier."
+    },
+    {
+      "quote": "So from a qualitative research perspective, I think that's definitely challenges there - in terms of things like ensuring anonymity of participants or data confidentiality, there's issues there. And which, probably more challenging for qualitative research than quantitative.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "Also, I think a massive challenge is the amount of time it takes to get your data into a suitable format that then makes sense to people, you know? So that when you do make it open, it is usable and so, you know that is that applies to both qualitative and quantitative data I would say but it's you know, it's just time consuming if you think. Put your, put the data into a format that somebody else could understand and make sense. and also making sure that you're not going to be breaching any sort of Anonymity issues or complicated companies, reality issues as well. All that takes time, you know, that, which if you weren't gonna make your data open, you wouldn't have to do necessarily And you know it's my only being, you, that is - need to see the data and…you know you understand your spreadsheet but That's all. That's all that matters. But if you're making it open, then you have to, you know, you need metadata with it, you need sort of You know, scripting files and stuff, that will explain the data and codebooks, that sort of thing. ..all of which takes a lot of time which you know, in a sort of time pressure environment, like, we are in university research and they're always on that time.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I guess, so a big enabling factor is the support that we have in the universities. I think Sheffield's doing a good job at the moment in terms of supporting the people to apply open methods and to make their open research open. So yeah, it might be like, support through the library and funding as well funding available to support open things like open access. And I know we have a lot of agreements with journals to make publications open access. So that will help, that all enables that supports making our research open.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ]
+    },
+    {
+      "quote": "I don't know if it's currently an enabler or, what would be an enabler is acknowledging open recent, like, open data and open research as a thing that is good to do, and acknowledging that I suppose through things like our, the way we, the way we review research, the way we access research, in the way we promote people, I suppose, you know, in terms of like Academic careers and promotion. and I think that would enable open research if it was acknowledged in kind of, you know, as a sort of criteria in promotion applications or job applications.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "The quote describes the absence of acknowledgment for open research in academic progression as an obstacle, and its presence as an enabler. While the code is framed as an obstacle, the quote highlights how removing this obstacle would foster open research."
+    },
+    {
+      "quote": "So the, clearly our issues in terms of, so, you know, a fundamental responsibility. We've got as a research, if you're dealing with data from human people that humans. Yeah. Participants, it's maintaining their anonymity and their confidentiality. Assuming that's you know, unless they've given X, you know, explicit content to be so de-anonymized, I suppose, but, so that that's a core responsibility of, you know, very important responsibility of any researcher. so, the, you know, if you're making your data openly available, There is always at risk, that such sort of anonymity and confidentiality will be breached unless you have unless the data is appropriately processed and kind of filtered so that you're not going to be able to identify people. and and sometimes that can be Easier said than done, you know, you might, for the best will in the world, you might think you've done enough to de..not like to, anonymize the data and things, but there might be certain information in there that somebody could could use to to eventually identify somebody a bit, so yeah, it is a bit of a minefield and as I mentioned before, like I think this is probably even more. So for qualitative data, where, and just the nature of that. Some of the, you know, what you might call data that's collected through qualitative, then I think the nature of it just makes it more challenging to ensure that anonymity of your participants.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "And I don't know, another sort of, like, ethical issue I suppose around open data is what the, what that data might subsequently be used for? As you, once you make your data open, you no longer have strict control over that I suppose. You know, so somebody might come and use your data for purposes that it wasn't intended for, and also whether your respondents, whether you're participants, would have agreed to that. You know - they might give consent to take part in the research that you're doing. But that might not necessarily mean they give consent to their data being used by other researchers for other purposes. So again, that's a bit of a ethical quandary, I suppose, with open data.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "Yeah. And for me going forward, I would always try to make my data open whether it's qualitative or quantitative. In some aspects. So, you know, and I don't know if it's the yeah, a good principle to follow is kind of ‘as open as possible, as close as necessary’. So there's obviously there might be, you know, instances where it's just not possible to make your data open, you know. you wouldn't be able to make it open without breaching confidentiality, you know, the confidentiality of participants and stuff. And however, I would always strive to make any future research data that I collect make it as open as possible. And because I believe that that for one demonstrates kind of transparency. Somebody can check my data and make sure my conclusions are appropriate, and also, if hopefully a useful resource for future research, as well, and I think it just adds a bit more rigour to what you do, because I know that I'm going to be sharing my data openly. If I know that in advance. It. So make sure it kind of like, Forces me almost to be absolutely sure in the data that I'm collecting. Because it's going to be potentially under scrutiny by other people a lot more than if it wasn't open data.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "Um, potentially so. One, I guess, one of the reasons I don't know, one of the benefits I see of making your data open is that it allows other people to check, almost like, check your data, and like I said, so check what the conclusions that you've drawn from it - and whether they would come to the same conclusions, you know. It allows somebody to make sure that what you're saying is actually true based on the data you've collected. I think. That's okay, from a quantitative almost like objective, positivist paradigm. However, it might make slightly less sense from a more qualitative, sort of interpretivist approach, because [that] perhaps isn't that same sort of strive for objective reality? It's more, it would be more about, you know, the researchers interpretation of their data. And that, that kind of context and the researcher's own critical position, which I don't think would make as much sense, you know. So, I don't think somebody would necessarily always be able to come and look at somebody's qualitative data and so say, whether or not the researchers arguments are true or accurate or not, because the researcher themselves will bring a bit more of their own perspective, which is, it's hard to convey, I suppose through the data that you're might be publishing openly. And a lot of it can't you know, a lot of the important context that might be in that qualitative data might be, you might have to adapt that, you know. You might have to strip that out of the data before you can make it open, because it, otherwise it you know - leads to any confidentiality issues. And so a lot of that contextual information might then make it more difficult to interpret the qualitative data. So yeah, kind of renders it slightly less meaningful maybe to make the data as open, but then, that is not necessarily a reason not to do it.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "However, having said all that, I think my own perspective is, there's probably more, there's more support, more guidance available, so making quantitative data, open - rather qualitative - I think maybe that's an area that could, that probably could do with a bit more support and guidance around how do you go about making qualitative data open.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "And yeah, I like like I said, so I think probably a bit more a bit more support a bit more guidance around how you actually do that. You know how might you go about making sure, for example, a series of interview transcripts, how do you ensure that they can be made open without breaching any issues around confidentiality, or you know, I mean, this isn't really my, this wouldn't be a subtle method I would generally use, but things like sort of field notes or, and so ethnographic notes - How you know, some practical guidance on how would you go about making those open? You know, these are like, just hundreds of notes. For example, are kind of just a series of notes collected in a series of different documents. Then how do you go about kind of, Like categorizing that, and putting it into a format that is useful, you know, because it's not just about dumping all of the Images of your notes onto the Web. It's like, how do you make that a useful resource? And so, and a resource that somebody else could navigate. I think guidance around that is, would be really useful.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ]
+    },
+    {
+      "quote": "And also, I think, like, as I mentioned before, but all of this needs time, you know? It's, to make your data open takes time. Rather than if you would just keep on your own computer and not share it with anyone. That will be the easy thing to do, and the thing that would take less time. But you know, so there needs to be some sort of acknowledgment somewhere, that, if you're gonna start playing these methods that will take more time than if you didn't.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "Yeah, so I suppose the first first plans would be, so my ideal workflow would be to, you know, yeah, have the research idea and perhaps collect some sort of pilot data. Initially, you'll get some sort of initial pilot data that might help inform your full research design. And then I would ideally pre-register my research. And what that would do is make sure that I'm being very specific about the plans that I'm planning for the, yeah, the kind of the process that I'm planning to follow. And so have a pre-registration. Collect my data and analyze it based on the pre-registration. So the pre-registration would explain exactly how I was planning on analyzing it, how I would. Assess any particular research, question or hypothesis? And so, then the analysis will follow that pre-registration plan. and, and then, I would hopefully write that up. In an ideal world, the data would be collected and put into a format that was FAIR. Yeah, so the findable, accessible, interoperable…and uploaded along with any pre-print of the work. To somewhere like OSF. That's generally where I would put my open resources here. Yeah. Now, being submit for probably a journal paper or whatever research output I'm going for yeah.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "So one slight concern I have with open, so the move towards open research, generally I think, it's a really good thing. This move towards open research, but when we talk about, like, qualitative and quantitative data, I have a slight concern that the move towards open research could, if we're not careful, it could be prejudicial against qualitative researchers. Because of like, I've tried, like, I've suggested, I think there may be greater difficulties and challenges in applying open research methods. So that's not just about open data, but some of the other pillars of open research, you know, in terms of like yeah, open access things about transparency of methods, pre-registrations, reproducibility. So, you know, all these sorts of issues that [are] talked about with open research for quantitative methods. But they are probably more challenging, and less appropriate sometimes, for qualitative research. And so, I have a slight concern that this move towards open research, generally across all different disciplines, if we're not careful, it could, it could be prejudicial against qualitative research, because if we're expecting all research to be made open, and as I said, if it's more difficult for qualitative researchers to make their data open, then that puts them in a more difficult position, you know.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    }
+  ]
+}

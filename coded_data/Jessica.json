@@ -1,0 +1,76 @@
+{
+  "participant": "Jessica",
+  "interview_timestamp": "2026-05-27T16:46:21.662459",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I remember leaving off the transcripts. I left off the last ten minutes of one interview because basically she was pouring out her soul about how dreadful the department was, and it didn't really have relevance to my research, and I didn't want people to see that sort of thing.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "when I publish a paper talking about a graduate school and I'm a lecturer in a graduate school, people can put two and two together and they could probably identify my interviews if they were staff.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "If they use paper-based systems, the phenomenological study, that one? That, I didn't publish my data. It was a little bits of paper, all random. Um, why did I not use anything though? It's because it just seemed easier to write things in columns, and it just seemed easier. So if you use, if you don't use the technology, it's pretty hard. I suppose you could photocopy everything, but really my handwriting, nobody wants to read that, you know! I would say that would certainly be a barrier.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ]
+    },
+    {
+      "quote": "Another barrier is When I? Gained consent from my participants. They knew that I would be publishing but they thought I would be publishing in a paper that's what I told them and that's what I expected. I wonder if they would still have given consent if I'd said, Oh, and I'm going to publish my entire dataset.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The researcher highlights a critical gap where participants may consent to summarized publications but refuse the open sharing of their full raw transcripts."
+    },
+    {
+      "quote": "Interpretivist research are very different from, you know, the data set you, that the quantitative data set that you publish that anybody can go and use. Being an interpreter to this. That. means that more of myself is, goes into, my, my analysis.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "It might worry me what would they do with that. It's one thing that I don't remember about Mendleye data, and I don't know about any other form of open access databases. Can you set it that you can say things like ‘no derivatives’, so people can't change things. Um, I don't like the idea of other people's words being out there, and then being changed to suit… somebody's, possibly, unethical, or even nefarious purposes, those things. Yes, they sort of worry me.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "I would be very careful with sensitive data, I don't, I don't think that everybody should publish all their data sets with just a bit of anonymity. I think this, things that probably should stay between the researcher and their participant.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "I assume you would get permission from them also, to look through their data and use it - the original research - to use their data. Um, I would have thought. It's not just polite, but it's ethical. To provide them with a proposal that I want to use this data for this study.",
+      "codes": [
+        "SECONDARY_USER_CONSULTATION_AND_CITATION"
+      ]
+    },
+    {
+      "quote": "And the other thing is certainly, providing a citation that, you know, you have used someone else's dataset. I don't know - somebody else's work, you certainly should be saying where it came from?",
+      "codes": [
+        "SECONDARY_USER_CONSULTATION_AND_CITATION"
+      ]
+    },
+    {
+      "quote": "The other thing is, I don't know what the university's policy [is] on providing qualitative data as Open Access. There's an awful lot of university policy that if you try and find it, it's pretty much impossible.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "I think if universities and if research councils are going to expect qualitative researchers to publish their data, they ought to have some decent guidance that is readily available.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "The researcher flags a discrepancy between top-down open data expectations and the lack of accessible institutional guidance to support researchers."
+    }
+  ]
+}

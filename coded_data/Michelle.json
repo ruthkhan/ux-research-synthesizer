@@ -1,0 +1,288 @@
+{
+  "participant": "Michelle",
+  "interview_timestamp": "2026-05-27T16:46:21.798773",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I can't say that I've ever benefited from it",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA"
+      ],
+      "inference": "The researcher has not personally experienced benefits from open research, possibly due to a lack of available or relevant open qualitative data."
+    },
+    {
+      "quote": "somebody else using it. Interacting with them in a different time and space. And I think there's some ethical considerations that need to be considered",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "somebody may really want to interact with my research, but on the consent form it says that you know the data is going to be uploaded to the UK Data service, and therefore that prohibits them from participating in it.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "The requirement to inform participants about data sharing in consent forms can deter them from participating, acting as a barrier to research recruitment."
+    },
+    {
+      "quote": "it doesn't matter how much metadata that you put with qualitative data you're not there. Oh, if you were to access it at a later that time and then at the Said. No amount better data can provide the context for when it was collected.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "It doesn't give that ‘why’, to [the] context ‘of’? Well, this was the political landscape, this was the funding, [this] was what was happening in the organization at this time in this space. Therefore, you can't just take what they say in isolation or out of context",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "which is the whole point of quality to research in the first place, and it's not a number. It's not. And detaching it from, yeah, the context in which you're you're operating in, so, and I don't know if it's compatible with qualitative data….",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "Because knowledge is tied to the social worlds in which it was operating in - at that time, and in that space.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I suppose that when you carry out research, it's kind of a production isn't it - with your participants. It's you and then working together to provide an insight into something. And I guess, when, you give away that, when in the nicest possible way, you know, you upload it to [the] UK data service or you put it in a repository, that story, that knowledge that you created together. It's gone. I don't know how that sits ethically.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The researcher views qualitative research as a co-production of knowledge with participants, and sharing this data with others (uploading to a repository) feels like relinquishing that joint creation, raising ethical concerns about the integrity of the original researcher-participant relationship and the shared 'story'."
+    },
+    {
+      "quote": "It's actually, what does that mean in, to somebody personal - researcher and the participant to know that somebody else will pick this up and put their own lens on it without knowing the circumstances in what it was created.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "I'm saying that partnership, that was part of the process of carrying out [the] research. That's been extinguished, hasn't it? And it's not just the researcher, who's extracted that information. It's, it’s ‘of together’, you've created that knowledge through that research process.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "I think you can upload transcripts to wherever, and the relations in funding agreements and so on and so forth. So I think technically, I don't think there's many barriers ethically.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "The researcher perceives minimal technical and procedural ethical barriers to uploading qualitative transcripts, suggesting these are not the primary obstacles to open qualitative research."
+    },
+    {
+      "quote": "I think it needs handling with care. I think it should be really respectful. And to recognize that somebody, a participant, has been really open and honest, and given up their time and whatever - the end product of that, that should be treated respectfully, and with care.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "Highlights the importance of respectful handling of open qualitative data, acknowledging the vulnerability and contribution of participants."
+    },
+    {
+      "quote": "I suppose the problem would be - is if some just came and said “well how would it be used?” You know, where what do you think this is going to look like, I am “don't know” - you can't, you can't anticipate that kind of thing.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "but when it's a participant’s personal experience then. Yeah. I think, I think that's different.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I think my bigger problem that, that knowledge is context balance. It was created at that moment in time, with that person, in that situation.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "And so, somebody picks it up and assumes that's the reality. That's, that was socially influenced as some depictions of even, now we could, we could get a transcript and with my own position and your position, we would interpret that differently.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "I don't think there's enough information about it. I don't think there's enough. You know, it's not what we got trained on. It's not included in a lot of the information that they have, it's just kind of like new.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "a participant’s perspective or position, it just can't be separated from the context.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "maybe they do want their voice to be heard in years to come. And yeah, and I fully understood - and that they have lots of things to say and they want it to be said and heard, not just in my research but you know, in different arenas as well.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT"
+      ],
+      "inference": "The researcher acknowledges the possibility that participants might *want* their voices to be heard more widely over time, which could be an enabling factor for open research."
+    },
+    {
+      "quote": "So I think probably consent in terms of the technical side of it - whether it's physically and legally possible to do it, and then also in terms of yeah, the participant’s wider perspective on how it should be used as well.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "I don't know - has it come from the idea, from like a quant space thing, you know where. And it seems better. Seems the right way to do it.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "Maybe stuff like this, you know, like discussions and examples and learning that that's what we need to to progressive forward.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "The one that's most similar to mine was conducted back in 1997. it's almost, you know, the organisation that I'm looking at has changed so drastically. I'm just wondering whether it [will] be valuable or not",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I'd like some guidance - other than just like really basic metadata, just have that really rich kind of setting about - this is what happened with it. It took place, and these were the circumstances.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "not necessarily physical conversation, but just some rich data, some rich data, some rich contexts that goes with it.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The researcher emphasizes the need for extensive contextual information to accompany open qualitative data, rather than just basic metadata, to prevent misinterpretation and ensure its value for secondary users."
+    },
+    {
+      "quote": "that we're doing cool video, it was a time of austerity or it wasn't just one thing. It was like, actually people will face with seven things that were under resourced, they were understaffed, they had multiple things going on at one time because it's really hard",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "the people who support you is likely data management plans, I think it is a library services, they are just absolutely fantastic. So, if I had any queries that is the first place to go and then the UK Data Service as well",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "for help on my data management plan, and they were absolutely brilliant.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "as part of the data management there is a section about making your data open access. Trying to think, I think and that's the UK Data Service as well. So I think it pointed you in the direction of ‘Read those’ - resources to read and things like that.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "I think definitely some training. But that's not kind of like what's business with physical stuff about how to physically do it, how to upload it, where to upload it. And what format, what metadata do you need to accompany? And so on and so forth.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "But then, I think this kind of lodge of knowledge sharing about and yeah. How that can be done, sensitive learning, and with care - and how that looks like and and I think as well for you to have some choice about how you want that to look, so great not to be such a set format.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "We've got to put it, upload it on, a spreadsheet or something. With “look, read me”. The first page, this is what it was like in 2022 with 10 years of austerity, and covid. And yeah, I think a little bit of flexibility would be nice in the process.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "It's the data management plan captures a lot of that. And so, for example, for thinking, right about it, when you start creating your day to management plan, and then thinking how it impacts on your information, sheets that you give to your participants so that they've got knowledge about what [will be] useful in the future. And then in your consent forms within that to be. Yeah, for them to give the concept for it to be used later on.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES"
+      ]
+    },
+    {
+      "quote": "I know that the UK Data Service has three levels of access, and I've never - I presume it's not available through open access, and so it said I think restricted or sensitive there's two, it's the two higher levels in it. I think you work with the UK Data Service to categorize it, which level then, that, you feel that it should be based at.",
+      "codes": [
+        "TEMPORAL_AND_EMBARGOED_ARCHIVING",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ]
+    },
+    {
+      "quote": "And I think you possibly feel more comfortable with it if you could have that conversation with a real person to say, Okay, you might not find this sensitive, but actually, that's because you don't understand the context of it - it is sensitive because of x, y, and z. Therefore, I feel that it should be safeguarded by having this protected, you know, restricted or safeguarded and category attached to it rather than. I suppose, I feel at the moment, we're just kind of like a little machines and it gets sent off into the ether, pick it up, and then, and that might be misguided because I'm not at that stage yet, and - but I suppose that's how knowing that it's not understood.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "The researcher desires a more personal, consultative approach with data services to ensure that the nuanced sensitivity of qualitative data, which is deeply tied to its context, is accurately understood and categorized for appropriate access levels. This suggests current systems feel too automated or abstract."
+    },
+    {
+      "quote": "perhaps we can't replicate what you do with quantitative. That this is different and that's okay, and it might need a different process.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "it might be that it needs a little bit more information to go with it, needs a conversation with [The] UK data service to say ‘And this is how, what I feel, that I think it should be, and categorized as, please can we have a conversation about it?”",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "It's about sharing it responsibly.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "This statement summarizes the researcher's overall approach, prioritizing responsible sharing over mere openness, reflecting the 'as open as possible, as closed as necessary' principle."
+    },
+    {
+      "quote": "I'd hate somebody to pick it up in five years time and say, Well, that practitioner didn't do that and that's And I suppose there's room for misinterpretation with quality to work.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    },
+    {
+      "quote": "Not to be taken out of its context and judge for that - because that would be, I think that it'd be the worst thing that we could do for our participants. It's a real disservice to them. I think.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "participant": "Ana",
+  "interview_timestamp": "2026-05-27T16:46:21.532253",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "But if I have to do this with my own analysis, I have to explain - “What is my background, what I thought these with, what is the - what is [indecipherable]? But this is coming back then [to] how I have interpreted these, why these things I am not looking at. So just in mind that you do this with 50 interviews, that I have, I mean, it's just, it's not possible. Like, I will spend the three years just explaining what I'm doing. So, not feasible.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "Explaining the highly subjective interpretivist context and individual positionality for a large qualitative dataset requires a level of detail that is functionally unfeasible under standard academic timelines."
+    },
+    {
+      "quote": "For me, personally, what has been more complicated is that it's a lot of extra work. And as I said, I think that for quantitative data, you have that. So it's very different, different because I can have, I don't know an interview - for how I work with it is, I could just listen to it. You know, even do the interview, take my notes, you know, write the notes how I feel them, you know, and transcribe them into these diagrams, and knowledge graphs, and then I present the knowledge graph to represent all the data that is behind this knowledge graph.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "The qualitative interpretive process of manual, non-linear analysis is fundamentally more difficult to translate into easily shared, structured quantitative data packages."
+    },
+    {
+      "quote": "with the interviews, like, if I want to have a good transcription, that someone reads it and gets what the conversation was about, because I'm doing interviews with people in the city council or people that are in projects. And if I want to do this, is, it's a lot of work of editing. It's not the same as, just, you know, getting the sense of it and taking the main themes, and I'm doing my own analysis.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Preparing transcripts for external secondary users requires an extensive level of polish and editing that is far more time-consuming than raw analysis for personal research use."
+    },
+    {
+      "quote": "in a project, in a bigger project, I think that there should be, like a work package, which is only about open access. And this is our package, it has its hours, and has its own money.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Structuring open access as an independent, fully budgeted work package in the initial project planning phases is necessary to address structural time constraints."
+    },
+    {
+      "quote": "I am asking everybody, which I don't know if you have asked, but I have [been] asking everybody permission to upload their interviews. So I'm transcribing the interviews, I am editing them. Some taking all this, you know, like whatever oral expressions, to get it edited at an interview, and I'm going to upload them to ORDA",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ],
+      "inference": "Engaging in dialogic consent and manually cleaning transcripts serves as a collaborative way to ensure data can be shared with integrity."
+    },
+    {
+      "quote": "so I have asked them how they want to be identified. I said that in any case, I have to be identified with a short explanation of where they are, because I cannot go and say “You know, like some random anonymous people”, because this is not what my research is about. So even if they are identified with a subdominium, it's not fully anonymized, they have to know this. I mean I have to say this person is symbolic in this project, in this kind of capacity of role, because this is what makes you know, this interview relevant.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ],
+      "inference": "Full anonymization is incompatible with qualitative validity here because the specific institutional or social roles of participants provide the essential context that makes the data meaningful."
+    },
+    {
+      "quote": "because if everything is Creative Commons, there is no point - that they have the problem, right? So people can get their own copyright. This, I write this question to you guys, and this, for me, it's interesting because this is about autonomy, and this is about giving people agency about their own data. And I think that waving out copyright rights, it's not the way to go, honestly",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "University policies forcing researchers to yield copyright control run directly counter to the open science philosophy of researcher and participant agency."
+    },
+    {
+      "quote": "university wants to have the copyright - because they do want to have the right [to] commodify this knowledge. So honestly, like I am, this is, this is, we need a tension, not so much between my epistemic background and what I'm doing. But the tension is between and academic structure that has, you know, like one point",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "following this thing, your paper, or my papers, they will have to go to an open access format, but open access format will cost per thousand euros, but UK pounds. So it costs a lot of money to publish in open formats as well. So you don't have this support. If you haven't put in your, in your own fostering cultures of open qualitative research, that you need 10,000 pounds or 5,000 pounds to pay for the open format of the article, the article will have to go to Copyrighted, under a copyright",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "There is nobody, you know, like people in your confirmation will last, you know, in the review”. They ask you “How are you going to get that? And How is your literature review?” But nobody asks you in the review, “How are you going  to make your data open?” So right now it's like something that you put on the top of the things",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "Workflows for academic and doctoral reviews fail to integrate open science criteria, treating data sharing as an optional, late-stage administrative add-on."
+    },
+    {
+      "quote": "I usually straight for doing the diagrams, but Illustrator is proprietary software. So I will say the files as .EPS And then share them as .CPS. That also means that when I will upload the interviews I do. I use Libra Office which is not, it's not, it's not in Office - Windows. It is another extension. So the, but nevertheless, I will use .TXT extension. So, I will, my working files are in one kind of formats, but when I will upload them, I will upload them in an interchangeable format.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "Qualitative researchers must dedicate extra effort to manual file conversion because common analysis and design software uses proprietary formats that impede open sharing."
+    }
+  ]
+}

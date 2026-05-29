@@ -1,0 +1,234 @@
+{
+  "participant": "Kelly",
+  "interview_timestamp": "2026-05-27T16:46:21.726773",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I'm also very for that quote. Is it from, I can't remember where it's from actually, that quote where it said 'as open as possible, as closed as necessary', which I'm also, I think I was really when I first started looking into open researchers, very positive. And now I've got a more critical lens in some aspects that I think is needed.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "Kelly expresses a nuanced support for open research, embracing the 'as open as possible, as closed as necessary' principle, indicating a critical but generally positive stance."
+    },
+    {
+      "quote": "So I have made some of my qualitative data open access in a sense, so, but it is open access - it's just restricted open access. So when I, so I was really big into sharing quantitative data, anonymous quantitative data. So when I do my qualitative interview study, and I wanted to do the same. So for participants who can send it, and they didn't have to consent. It was optional. But participants who can send it, I put their sort of pseudonymized Interview transcripts into a restricted access repository held by the [Redacted University name].",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "TEMPORAL_AND_EMBARGOED_ARCHIVING",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ]
+    },
+    {
+      "quote": "It is really important to try and keep the long journey of the data, but I guess it's also balancing that with making sure participants can't be identified, and potentially to do that you have to remove quite a substantial amount [of] data to anonymize it And potentially, if you do that is the data reading useful. Once you've done that and put it online, I'm not really sure. And it was very time-consuming to Anonymize and",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Kelly highlights the challenge of de-identification and the trade-off between protecting participants and maintaining data utility, while also noting the significant time investment required for anonymization."
+    },
+    {
+      "quote": "I also think it was a lot of work for me. But I think I've seen [Name redacted] say that the future you can cost for maybe helping with things like that, to help project the longevity of the data if you don't have funding though. It's like [a] thing, I spent like a good few days a week just going through and double-checking all the data to anonymize it. So if you're busy it's quite time-consuming.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ],
+      "inference": "Kelly reinforces the high time cost of anonymizing qualitative data and suggests that funding for such activities, potentially through 'costing' mechanisms, would be beneficial."
+    },
+    {
+      "quote": "And so I guess one is what people do with the data. So, will they use that data to add to their date in the future, such as like a big qualitative synthesis, or - and maybe for qualitative meta analysis or for future studies. If they want to collect extra data from a topic, is that how it's going to be used? Maybe that's the best way, because in quantitative research you can do things such as, you know, reproduce the data to insurance accuracy, and it can be used a lot more for other things and checking things like yeah reproducibility and things like reproducibility and reliability. It's not really anything that can be used with qualitative research. That is a lot more inductive. And so, that is the sort of barrier like, what do people - do [they] really understand what is that data going to be used for? Because it's can't always be used the same as quantitative,",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "EPISTEMIC_TENSIONS",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "Kelly expresses concern about how secondary users will utilize qualitative data, highlighting the difference from quantitative data's reproducibility, and questions whether the inductive nature of qualitative research is compatible with typical open science expectations for reuse."
+    },
+    {
+      "quote": "And the other barriers ar. as I mentioned, anonymizing the data, but then potentially, you could have really good - you've got - have really good consent processes. Participants what their consenting to, but potentially you don't - you can, they could consent to their being this risk of disclosure. I don't know…and you put [it] in a really restricted access repository. It's sort of [a] duty of care to participants. I think that's really hard to weigh up.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "Kelly underscores the difficulty of fully anonymizing data and the ethical complexities of informed consent, especially regarding the potential for disclosure and the researcher's ongoing duty of care to participants even with restricted access."
+    },
+    {
+      "quote": "And participants might say that they're fine for their names to be attached to it. But for example, they might think it's fine for learning to be attached to it, but if they talk about people in their interviews, like family members, have they consented to their details being released like that. So, that's really complicated. And the other is continuing consent, because it consented for the research, their data to be used for future research I guess it would be quite heartbreaking to know that your data got used for [a] future study that actually was trying to contribute harm in some way to maybe, whatever population group you're associated with, you can't really necessarily control who uses the data, and what - for outside of things like not in my data. It says, you know, it shouldn't be used for, it should be used non-commercial learning research and teaching purposes. So it's not used for commercial purposes, but past that there's not a lot of control.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "Kelly raises concerns about the complexity of consent, particularly concerning third parties mentioned in interviews and the long-term control over data use, emphasizing the risk of misuse despite restrictive licenses."
+    },
+    {
+      "quote": "I've seen now that a lot of grant funders wanted to it be the norm, including the UKRI and to have a really good reason for opting out. So, I guess grant funders, are require, sort of requiring it is sort of changing, potentially, a culture and - then, I think what I mentioned earlier, if there's a potential for grant funders to allow costing, so the things that are time-consuming to a sort of allow costing for things like maybe studentizing days to make sure it's really, really, and I have heard people use companies for things like that. I think that does exist, I'm not sure. I didn't use it, and if there's a way for grants to make sure there is funding for that, and that's not something they have to. If you want them to deposit data, then you have money for this. It shouldn't really be something they have to fight for.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Kelly identifies funder requirements as a key enabling factor and advocates for dedicated funding within grants to cover the significant costs and time associated with anonymization, rather than expecting researchers to absorb these expenses."
+    },
+    {
+      "quote": "And that would make that easier but it's training as well. And it's not going to quantitative data training. It needs a whole thing. And potentially. It needs to be implemented quite university. Wise. So even if it's like a national funding, the training, it gets like advertising at universities and quite regular chain training for when people want to go to it to find out actually how they do it because I didn't know that there were things such as restricting access repositories, until I spoke to my university library team and don't know, you don't know. So how do you find out? Basically, I had to find out just working, you know, like really, like, interoperator research, and just chatting [with the] library team. Otherwise. It's really hard to navigate data and sharing, I think, if you've never done it before,",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Kelly points to the need for specific, consistent training on open qualitative data practices, highlighting the current lack of awareness and difficulty researchers face in finding resources like restricted access repositories, often relying on informal networking or proactive engagement with library teams."
+    },
+    {
+      "quote": "So, I explained in the particular information sheets and consent form about that the data could be stored in a restricted access repository, and that people will have access to data for non-commercial learning research into teaching purposes, and participants consented. For this, it was optional. So I put it at the bottom, and I said you don't have to consent this. Take part in this, you can opt out and you can still take part, but really the vast majority of people opted in - and even though they could opt out [were] very happy to share their data,",
+      "codes": [
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "Kelly describes a dynamic consent process where sharing data in a restricted repository was optional, allowing participants to opt-out without affecting their participation, and notes high participant willingness to share."
+    },
+    {
+      "quote": "But what I did was I went through again, when I wanted to upload it to the restricted access repository, I went through it all again, and double checked everyone's consent form. They definitely can send it for the data being used. And then I removed absolutely anything I felt that could be identifiable and especially because I was researching quite a niche population, like quite a niche genetic population. and it just meant things like, they said, “I had two sisters” and they each had bowel cancer, womb, cancer, and even stuff like that. I tried to keep it quite vague and say, family members and cancer. So it kind of ends removing interesting data, but then I was using quite a niche pool of people that even though they have high risk of cancer in these families, sort of saying, how many sisters and brothers they had - and which can family members - have cancer could be identifiable. And so it's just removing sort of anything and everything; accents, expressions that could hint an accent. And so it was quite time-consuming, and so, yes, and then uploading to the restricted access repository.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "Kelly details an extensive de-identification process, manually reviewing transcripts to remove any potentially identifying details, even subtle ones like family structure or accents, which was particularly challenging and time-consuming due to the niche and vulnerable participant population, leading to some loss of 'interesting' data."
+    },
+    {
+      "quote": "I also had a data user guide that sort of describes how I anonymized for people. I just remembered that, and so have this guide, and that really helped. So hopefully people come back to it. They can be like, that's what I'm anonymized. That's why I've changed this, and hopefully it's easier for them to read and that was on the guidance of my university library team.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Kelly mentions creating a data user guide explaining anonymization choices, which is a practice to mitigate contextual loss and was done with support from the university library team."
+    },
+    {
+      "quote": "I definitely come from much more preposition of trying to make qualitative research much more inductive rather than being led by quantitative deductive measures - such as when I used extra coders to help me analyze my data. I've not thought about it as reliability checking, I thought of it as wanting to hear other people's opinions, and discuss together collaboratively. And so, it is tension in a sense, because opens, like research and quantitative is a much more positivism deductive framework. And I think that's why, I think the tension comes from that, we are a big part of the sort of open science, open research movements, what open science and originally what it was called because it is very much the quantitative science is coming from a very positive as a quantitative respective and sort of adapting things to meet qualitative research, but maybe in some times it's not as simple as adapting. It sort of needs a whole massive overhaul, and doesn't dismantle, put back together from the ground up, with like qualitative researchers, and that leads them to tensions.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "Kelly identifies a fundamental tension between the inductive, interpretivist nature of qualitative research and the positivist, deductive framework prevalent in the broader 'open science' movement, suggesting that current open science practices are not adequately adapted for qualitative methodologies."
+    },
+    {
+      "quote": "If you are purely conducting qualitative research, especially in areas of high risk populations who really can't risk any disclosure, then you're going to be left behind by grant funders and hiring criteria. And it's, things [are] going to be sort of against you because the system sort of built up for a very positive open science structure.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS"
+      ],
+      "inference": "Kelly warns that qualitative researchers, particularly those working with high-risk populations where disclosure is critical, face being disadvantaged by funding and hiring systems that are largely structured around a positivist open science paradigm."
+    },
+    {
+      "quote": "Um, I think the experience made me feel like it depends. I will try where I can, but I don't think of it as a priority in comparison to quantitative. and I will try and always get consent for it, where possible, because if you don't get consent and you've blocked yourself in later, And so it's trying to get consent things. But it is a lot of work. I have another data set from a PhD - that - I need to do that with some time, but I don't know when I'll find time, and trying to balance that publishing and yeah, I don't think I left the experience fully convinced that qualitative open data is completely the way forward. At least without instructions there to make it easier, just because it's so time-consuming. AndI'm not sure, I'm not sure on the benefits I guess, because I'm, I don't really know what the benefits are of longitudinal qualitative data. I wonder if there's any really interesting best practice examples, because I don't really know what people use the data for, might be really interesting.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "Kelly expresses reservations about the value proposition of open qualitative data due to the significant time commitment and lack of clear benefits or demonstrated reuse cases, especially for longitudinal data, suggesting a need for more practical examples and easier processes."
+    },
+    {
+      "quote": "I can see it working really well for a qualitative synthesis of existing data, because it could be a lot more helpful if you could access the actual transcripts rather than just the review data that could be really handy potentially.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "Kelly acknowledges a potential benefit of open qualitative data for meta-synthesis, allowing direct access to transcripts to reduce contextual loss compared to relying solely on published reviews."
+    },
+    {
+      "quote": "So there's one thing I'm aware of from our unit [at Redacted University name] And so I did a reproducibility session, and there was a qualitative researcher. He came to speak at the session and they talked about timescapes, which is a longitudinal, qualitative research data storage projects, and that was a project. I can't think how long it ran, but that was yeah, really interesting. A study where these sort of, they actually did it without actually, saw a lot of longitudinal qualitative data and they really looked at what consent processes would be, and sort of looked at troubleshooting, those sort of ideas. So I know of that [at Redacted University name] and I know a lot of open researchers who talk about it in qualitative research, and sort of written papers express things like that. And so, accessing a lot of like, discussions actually. And maybe less practice in the past, I've seen apart from timescapes, It's very much in practice and it's really interesting. That's what's called [indecipherable] archive, most, so talking about it, and sort of the barriers and challenges, and Yyah, be interesting to know how people do it. More in practice, I guess it comes back to my earlier point.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Kelly is aware of the 'Timescapes' project as a practical example of longitudinal qualitative data archiving and consent but notes that there are more discussions than practical examples of open qualitative research, indicating a gap in hands-on guidance."
+    },
+    {
+      "quote": "Yeah, so, with the research in general, you know, is that - there's loads of things such as like publishing protocols. And I'm pre-registering in qualitative research, and which is also a contentious issue because it's much more quantitative. I've pre-registered my qualitative research on open science framework, I did find it really helpful to sort of link to say this is what I was originally gonna do, and this sort of how the study evolved, and quality to research can change. And that's like, fine, it's [an] evolving process.",
+      "codes": [
+        "QUALITATIVE_PRE_REGISTRATION",
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "Kelly mentions the contentious nature of pre-registration in qualitative research due to its association with quantitative methods, but found it helpful for transparency in documenting the evolving nature of her own qualitative study."
+    },
+    {
+      "quote": "Yeah. Yeah, the data needs to be, increase awareness of resources - including, like, restricted access repositories, which would make people probably feel a lot better. Increase awareness of the consent process participants understand what they're consenting to and that this is really factored in as early as possible from the study. and again, that's also training and awareness and, and The understanding processes. For, if you say subsistence of data is going to be sort of pseudonymized and anonymized, and identifiable data is going to be removed. They're actually - how that actually is done in practice and what is identifiable. What is considered identified? Well, that's quite, that's not exactly black and white, that can be quite difficult to work out.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Kelly emphasizes the need for increased awareness and training regarding open qualitative data resources (like restricted repositories) and transparent consent processes. She highlights the practical difficulty of defining and implementing de-identification, which is not a black-and-white process."
+    },
+    {
+      "quote": "And then you could go to your library university. Libraries sometimes have resources in this area like experts, like the [ Redacted University name], but I guess if everyone did that and the library would never be able to support them because they're just would not be enough people. Not enough library staff with all the questions.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Kelly notes that while university libraries offer support, the current level of staffing and resources would be insufficient to meet a widespread demand for assistance with open qualitative data practices, indicating a resource constraint."
+    },
+    {
+      "quote": "Yeah, and more support roles that are funded that can help this so increasing awareness, but making sure the other end of the spectrum, when you've increased awareness, you have the structures there and support staff.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Kelly calls for more funded support roles and institutional structures to handle the increased demand that would result from greater awareness of open qualitative research, addressing the resource gap."
+    },
+    {
+      "quote": "I was as aware of pre-registering quantitative research and open science framework anyway, and I was aware that templates have been adapted for qualitative research so I knew I wanted to try and use these sort of open science practices in my qualitative study. So once I wrote the ethics application, and then I took in key information from the ethics application, so expanded upon it and created a pre-registration protocol. And that was really helpful, because it helped me think about things like analysis as well. And what I was planning to do and and then I put that on open science framework and timestamped it pre-registered it.",
+      "codes": [
+        "QUALITATIVE_PRE_REGISTRATION"
+      ],
+      "inference": "Kelly describes her practice of pre-registering her qualitative research on the Open Science Framework, adapting templates, and finding it beneficial for planning her analysis and documenting her research process transparently."
+    },
+    {
+      "quote": "And Oh, and as I mentioned as well, I factor in data collection data, open access data, really early into this process. I got in contact with the [Redacted University name]. Library teams discuss their restricted access repository and to understand what this sort of user license agreement was. So I could sort of take that tax to put into the participant information sheet in the consent form and I'm making that optional.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES"
+      ],
+      "inference": "Kelly integrated open data planning early in her project, consulting with the university library about restricted access repositories and incorporating this information, including making consent optional, into her participant materials."
+    },
+    {
+      "quote": "And then I published the paper Open Access, which I was lucky to do, because I have UKRI funding, so I was able to get it published through the library open access, and that was really great because the patient group I was interviewing were really interested in the research. So when I published it, I could give it to them and the community I recruited from, they have this sort of Facebook support network, and they could read the paper as opposed to it being behind a paywall.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+      ],
+      "inference": "Kelly was able to publish her paper Open Access thanks to UKRI funding and institutional support, which directly enabled the patient community she researched to access and engage with the findings, highlighting a key benefit of open research."
+    },
+    {
+      "quote": "I don't know how this works the other way. So do you like, let's just search in a sense, to find the data - and can you search across multiple databases? Do you have to go across individual ones? Do you find the papers, and see if they have the data? So, I don't know, actually, don't know. I don't know how to do anything the other way, or any mostly done it from depositing, so I, if I was gonna go search and try and find qualitative data, I don't know how I would search for it unless researching for the publications wouldn't know how to search multiple repositories, and I don't know a lot of repositories. I know the UK Data Service for UKRI, and I know my university one, and I'm sure other universities have data repositories, and that's all I really know.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "Kelly admits to a lack of knowledge regarding how to find and use other researchers' qualitative open data, indicating a barrier in terms of discoverability and a need for clearer guidance or standardized search mechanisms across repositories."
+    },
+    {
+      "quote": "I don't think I know how to do it. I go back to my library team to be honest as for their help, I would actually know the first steps and I'm not sure I've seen. Training in that area. Training on, not how to deposit, how to use secondary qualities of dates and how to find it.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Kelly explicitly states that she wouldn't know how to use secondary qualitative data and hasn't seen training on how to find or utilize it, suggesting a critical gap in resources and education for data reuse."
+    },
+    {
+      "quote": "Yeah. Otherwise, it's like that, back to what I said before, it's like we're posting a lot of data but what's it being used for? Because no one knows how to use it.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "Kelly critically questions the purpose of archiving qualitative data if researchers lack the knowledge or training to find and effectively reuse it."
+    }
+  ]
+}

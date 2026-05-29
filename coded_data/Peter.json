@@ -1,0 +1,76 @@
+{
+  "participant": "Peter",
+  "interview_timestamp": "2026-05-27T16:46:21.820776",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "I do find open research more accessible as a result, and therefore, more inclusive, and also because it's more accessible, I find that and I've spoken to colleagues, who are therefore more likely to use open research, because you've got, you get more of that.",
+      "codes": [
+        "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS"
+      ]
+    },
+    {
+      "quote": "I do find that method of communicating your research to more of a layperson is quite an interesting way of putting it, especially in qualitative.",
+      "codes": [
+        "PUBLIC_OUTREACH_AND_DISSEMINATION"
+      ]
+    },
+    {
+      "quote": "the payroll is a barrier to making it open access, and it's a business model for publishers to effectively be able to retain control of that resource. and so, in terms of the institutional level barrier, the institution wants the prestige of you getting into these…[indecipherable]. These particular journals or publishers, they want you to sign these, to have peer review papers, they want you to sign the potential book deals, which builds prestige to the institution",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "In my ethics application, I included making their data sets open and so on. So it's been included, it's been included in that, it will be published that, their transcript may be published, and that the only thing that would not be published is any identifiable factors, and they will be pseudonymised.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ]
+    },
+    {
+      "quote": "Is that a potential reason why the students have? And been a barrier to getting students’ participation to sign up? That could be a potential factor, but equally, having not trialled it, and doing a more closed approach, I reckon that would be effective, I guess, in itself. It wouldn't be, wouldn't be coming from any form of foundation of knowing. It would just be a simple guess, but it could be a possibility for a barrier.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The researcher speculates that the requirement to share qualitative datasets openly might deter potential student participants from consenting to the study."
+    },
+    {
+      "quote": "outside of my supervisors, and there's not been particularly anything that's overly encouraged. And my supervisors, when they both instructed me through the ethics application, and [at] previous universities where they've encouraged how to search databases, and how to search for literature outside of that, I wouldn't say I've had any clear direction of how to make my actual research open access.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "you're writing your ethics application can make it open, but you aren't being you aren't necessarily showing how to make your data open. So functionally, you've got something that can be open, but you’re never shown the direction of how to make that.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I wouldn't know how to present that work in a way that is not going to therefore either distract from the paper’s likelihood of getting published, or presenting it in a way that users can effectively find that code on say Github, or so on.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I imagine what will happen is although I'm certainly open to put in the code and framework out there, because that will probably be something that someone doesn't necessarily know how to do, or wouldn't know how to guide me, it will probably get left out - purely based on the fact that the guidance is not there.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "if I just put the raw data in without the code, I think you effectively be, you'd have a lock without the key, or something similar to that.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "The researcher notes that providing qualitative raw data without the accompanying interpretive framework or code prevents other researchers from fully understanding or utilizing the data."
+    },
+    {
+      "quote": "I won't be using secondary data from further appeal, because just because it's highly subjected.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "The researcher decides against using secondary qualitative data from other contexts (like the US) due to the highly subjective, context-dependent nature of educational systems."
+    }
+  ]
+}

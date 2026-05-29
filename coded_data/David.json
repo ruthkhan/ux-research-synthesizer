@@ -1,0 +1,81 @@
+{
+  "participant": "David",
+  "interview_timestamp": "2026-05-27T16:46:21.597252",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "a particular method that I use is using the 360-degree action camera. So, I record The app, the actions of the participants, as well as have an interview with them.",
+      "codes": [
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS"
+      ],
+      "inference": "The participant's core methodology relies heavily on capturing detailed audio-visual and immersive data."
+    },
+    {
+      "quote": "So the positionality is a research on very much in that particular research. So that's something that I actually embrace. Whereas I think other paradigms are be get out of there, you should be impartial, you should be away from.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "The researcher highlights how their subjective positionality is central to their interpretive approach, contrasting it with positivist paradigms."
+    },
+    {
+      "quote": "But I also have attention there because the data that I collected audio visuals 360, And I have the participants for me. I've got the duty of care to them, and they do come first as far as I'm concerned.",
+      "codes": [
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "Managing highly detailed 360-degree video data poses immediate ethical challenges regarding participant identification and care."
+    },
+    {
+      "quote": "I can see the benefits that if I put this in the UKDA and put an embargo on it for 10 or 15 years, that might be useful for somebody in 10-15 years time say, but it's not going to be that useful in the interim, but, so for me, that's [a] particular challenge.",
+      "codes": [
+        "TEMPORAL_AND_EMBARGOED_ARCHIVING"
+      ],
+      "inference": "Embargoing sensitive data is considered as a path to long-term archiving, although it limits immediate utility."
+    },
+    {
+      "quote": "what's harder is convincing participants of their higher personal data of their faces, that their actions, and that kind…especially the 360 environment, of having that transferred to a data.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS"
+      ],
+      "inference": "The recognizable nature of faces and actions in 360-degree recordings makes participants hesitant to consent to open sharing."
+    },
+    {
+      "quote": "how we differ from, what my perception of, how we differ from quantitative stuff. Done that idea of reproducibility, of, I, I'm, I [am] firmly aware that somebody would interpret the data that I collected completely, and come up with different, for want of a better word, results.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "Acknowledging that qualitative interpretative data cannot support traditional quantitative notions of reproducibility."
+    },
+    {
+      "quote": "but then there's that question of money, of the funding that's needed to deposit it. So, if you do need to put it in U DA, which is attractive me - because as a security, audio-visual stuff - and it's just, it's just trying to find that part of money to do that",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "Repository deposition costs act as a financial barrier, particularly for heavy audio-visual file storage."
+    },
+    {
+      "quote": "to supplement like participant information form and [consent] form. I've actually got is, I use a series of, like, not cartoons, but like pictures, step by step pictures. Really force where the data goes, what happens to it, like decision points and things like that.",
+      "codes": [
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES"
+      ],
+      "inference": "The researcher uses visual aids and flows to demystify complex data-sharing processes for participants."
+    },
+    {
+      "quote": "I give them, like, a menu as well. Like, I give them some three options and it's quite clear like total amount. Anonymity, you know, it's completely up to them how they want it done, then I give them the completely open option, and I explained that, and then what I tend to find happens is they meet in the middle, so I call it tailored.",
+      "codes": [
+        "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES"
+      ],
+      "inference": "Offering a negotiation menu allows participants to choose custom, middle-ground levels of data sharing."
+    },
+    {
+      "quote": "the DMP, the data management plan, so that's come from the conception of the project. and I'm already thinking, what? Oh yeah, they're going to DMP. I like, what file form, that's where that's gonna go, that's gonna end up.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ],
+      "inference": "Planning long-term file format and storage needs right from the early design phase of the project."
+    }
+  ]
+}

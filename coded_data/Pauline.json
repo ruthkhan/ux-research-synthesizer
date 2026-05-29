@@ -1,0 +1,243 @@
+{
+  "participant": "Pauline",
+  "interview_timestamp": "2026-05-27T16:46:21.809853",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "there are particular challenges, I think in humanities research - and that's something I was interested in discussing in the initial survey form, and yeah, I was happy to talk about it in more details.",
+      "codes": [
+        "HUMANITIES_DISCIPLINARY_CONTEXT"
+      ]
+    },
+    {
+      "quote": "I'm, I'm also turning my thesis into a book which, you know, poses some challenges in the copyright issue of archives and yeah.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "I think, in humanities, I thought I talked [to] a lot of people that kind of have a hard time using the, or thinking about their work as data, because it's - some people call it evidence. I also kind of, with the idea that, that the poems analyzing are data, because I think that's [a] very redundant form of considering an artform or a piece of art data.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "So, from my perspective, what I can apply into my research - open research, you know, but transparency about knowledge equity as well, making resources available, and I think, what often kind of gets missed out from the conversation [is] that for me - the idea is not just about, you know, making a publication open access, but then having other types of publications or, you know, research outputs, that translates that academic language or academic output to, you know, to the everyday people - to the outside of academia, that, um, can be useful to you. So in that sense, I mean obviously, open access is very good but I think we have to think about that. Every day people from the general public they won’t read, most of them won’t read a research article. They would read maybe, you know, a blog post, listen to a podcast or a radio talk, or - so to translate those ideas into digestible formats, that I think, that's what's mainly important in making the research outputs open and accessible",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT",
+        "PUBLIC_OUTREACH_AND_DISSEMINATION"
+      ]
+    },
+    {
+      "quote": "my experience has also been, yes, I published Open Access articles, I have a research blog that I, you know, sometimes update with some blog posts - or updating what I do at the moment and some people read it. I always get surprised when I get some feedback on them but Yeah. I, you know, you used Twitter and now using LinkedIn as well trying to migrate some things to LinkedIn.",
+      "codes": [
+        "PUBLIC_OUTREACH_AND_DISSEMINATION"
+      ]
+    },
+    {
+      "quote": "I can't really make my sort of, the research data open, because if you consider the poems, you know, the data, they can buy the book or sometimes they are available online. And other types of data I work with, they tend to be under copyrights in library archives.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "So, we don't, which I think generally tends to be the common practice with interviews, that you don't make the raw data available, but the sort of edited versions of them. As in our case, it is the case studies are open and they're published under CC, by Creative Commons license. So the participants agreed to that. But I would be done, made the original interview materials open on although some of the case studies have snippets of like audio recording from the interviews that the participants agreed on that, but they're just very short, you know, parts of that.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "I think it's I think it has, I think it's much more challenging than in like stem research, where work with quantity of data. because yeah, often you either have the humans participants and then you have the restrictions of GDPR and you know, other kind of article, you know, hurdles as well, or people who work with children or different kinds of vulnerable participants. So you can't make everything open.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "You know, there is that motto of open research to [be] as open as possible and as closed as necessary. So, I think that's that's very important in the case of working with human participants, in the case of copyrighted materials.",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "This has been a kind of pet peeve for me, because, I, it's really really restricting for, I guess larger humanities research. You know, the digitization, especially during the pandemic, has been very useful for so many people like me as well. But I think it's, there is an issue of Interest of, you know, the people who tend to have the, you know, the copyrights. I mean, my perception is that because humanities research is so underfunded. And, and the people who own the copyrights wanting that they do make everything, they do have them to, you know, that's the only way they make money. Really so, I think there are some what's it called? Yeah, what I said, if there are different interests in the field. If someone in, I think it's similar if someone in STEM failed works, but the industry and they would have commercially sensitive materials, and it's the same in my case,…if a publisher like [REDACTED PUBLISHER NAME] owns the copyrights, and then everyone is kind of agreeing - or it's, I guess it's a hidden, not hidden, but not something a lot of people are aware of - that they are incredibly difficult to get [a] hold of, and they seem to be deliberately restricted with copyrights and are not answering to people, so it's not just even the copyrights itself, but for the fact that you don't get [an] answer for your queries about, you know, wanting to publish something that has copyrighted materials in it, because they don't get back to you.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "The lack of response and deliberate restriction by copyright holders further amplifies the barrier beyond mere existence of copyright."
+    },
+    {
+      "quote": "I think what I mentioned, the differences in funding. That arts and…humanities tend to be quite, you know, underfunded compared to medical sciences and…STEM fields. And yeah, even just, you know, paying for copyrights is often a big chunk of money or similar things, another barriers.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "I think, I don't think this is my idea. I heard it somewhere in a different talk, that in the case of I guess, art and humanities or qualitative research, I think the aim is often not to make that data open, but you know - it's time research is often about making the data open, so then other researchers can build on that data. Well, I think, for qualitative, research, or human arts and humanities is more about making it open to connect with the people, and to make it as I said, digestible for the public. So that's what I think, more important in the openness of qualitative research.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+      ]
+    },
+    {
+      "quote": "Yeah. I think it often, it's about collaboration as well, and to, to connect with, I guess. Yeah. Because qualitative research often, you know, is concerned with people themselves. So I think it's often about connecting with those people and communities, and research.",
+      "codes": [
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+      ]
+    },
+    {
+      "quote": "What I kind of touch on, is the different kind of, I would say then, like, media appearances, like, you know, if you have - you know, like like a blog or a or even a radio, or a podcast and I think often these kind of research projects, and to be more easily conveyable to the general public. So, you know, maybe a research on Shakespeare would be easier to just even raise interest and maybe researching molecular biology. So I think that’s, as an enabling factor, that it's easier to connect with, and although maybe the language is not that easy, you can, I think you should have as an academic. You should have that tool to communicate your research [to] the wider audience.",
+      "codes": [
+        "PUBLIC_OUTREACH_AND_DISSEMINATION",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+      ]
+    },
+    {
+      "quote": "I haven't done it myself, but I would like to do at some point a project on, you know, like participatory action research or similar ways in which people are actually, are part of it. And, you know, when I was doing the interviews as well, with people, some people mentioned, very interesting ways of connecting with - which you know the public, like workshops and creating a play, a theatre play. So you have these creative tools to communicate ideas, and to raise awareness.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION",
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT",
+        "PUBLIC_OUTREACH_AND_DISSEMINATION"
+      ]
+    },
+    {
+      "quote": "I think, first, it was more, it, I think it turned out to be a bit more complicated than I expected it. We used the information sheet or…template provided by University. So we had a template to work with, but then we had some people coming back to us that, 'Hey, this is not specified in here', or, you know, 'can you say something about that?' And also, I had other difficulties, but I have to chase people up to sign the consent form to make sure that it's all done. And you know, some people would say, isn't it enough that I say it in the video, that I consented - and I am sorry, you have to sign it, and sometimes it - to give a month to chase people signing it after the interview has been done.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ],
+      "inference": "The university's template being insufficient and the effort needed to chase participants for formal consent highlights issues with existing guidance and resource allocation."
+    },
+    {
+      "quote": "that some people were a bit taken aback when they, when tonight at the project is not anonymized, and those tend to be - those tended to be people who work in fields where they usually anonymize the interview data. So they were just used [to] it, but I find that people in arts and humanities were more happier to, you know, have their name out there - because I think it's more challenging to get recognition in that field anyway, so, that was an ethical challenge, I think. Clarify why [we] did not anonymize, and what is the benefit of, you know, having your name out.",
+      "codes": [
+        "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The quote highlights a specific ethical tension between the norm of anonymization and participants' desire for recognition in humanities, which is a facet of de-identification challenges."
+    },
+    {
+      "quote": "I could say another example that's not from this project that popped into my mind when I was working with, for my for my PhD. Listening to audio archives, and these were audio archives that were made in the seventies - of audio files into use that were made in the seventies…and they recently, so nobody knew to existence of this until a couple of years ago and then and then one of the university libraries acquired them, I made the audio files available public. If you know that register with them, it's, it was easy to - anyway. But, you know those interviews were conducted yeah like fifty years ago - all of the participants probably had some you know, consent of being recorded. Probably did not expect those files to be available fifty years after even after the death and, you know, in those fires because they are casual conversations, you have the, into you are talking to the interview and then their child comes in and ask a question or you know, there are some people pop into the conversation with family members, and then you have that kind of listening to the families of someone who probably did not want to be recorded, or even - there was an interview with a therapist, who was the therapist of the poet I was working with, and unfortunately, she broke the, the Hypocratic [oath] - during the, she was reading the therapy notes, and a lot of these were quite sensitive materials on, you know, when this person lost her virginity, and all this kind of things, and they were quite as well, difficult to listen to, because he, you feel that you're in a conversation, that you, that people did not consent to be, you know, know that information.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "The long-term availability of sensitive archival audio data, including unintentional disclosures and third-party content, poses significant participant harm risks and trust anxieties."
+    },
+    {
+      "quote": "and when you couldn't really get contraception, and I was, this doctor, he was signing off contraceptives to young girls which was you know, illegal at the time. So you know, should you include that in a biography? Which is sensitive information that probably no one wanted to, you know, know what? I'm get it written. Get it published in that format. Yeah.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "This emphasizes the ethical dilemma of publishing sensitive, potentially illegal historical information in secondary outputs, underscoring risks to individuals and questions of data control."
+    },
+    {
+      "quote": "Yeah, I would say I am here too. Yeah.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "Participant identifies herself as an interpretivist in her research."
+    },
+    {
+      "quote": "Yeah. I mean my in my research, where that's everything about interpretations and it's, and I think it's, you know, when you, when you're working at first, you just kind of, that's the basic principle that there is no one way of interpreting things. Although there are probably, you know, things end up being outdated because of, you know, maybe one, but, Yeah, I think that's, I mean. That's why I guess it's important to make that data open, so people can have the evidence that you work with and then and then look at like okay this person's idea what interpretation comes from this. So the principle that I was told is that when you have an, when you write an argument in an essay, [you] always have to cite your, you know, back up your argument with a citation. So that's - the evidence or the data is the citation that people can look at.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "The quote argues that making interpretivist 'evidence' open allows others to scrutinize and understand the basis of interpretations, aligning with principles of transparency while acknowledging multiple interpretations."
+    },
+    {
+      "quote": "the case studies are available online, and anyone can basically write their interpretation as well of that data being created",
+      "codes": [
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "Making case studies available online is a practice that supports open interpretation, consistent with interpretivist epistemology."
+    },
+    {
+      "quote": "I'm interested in, yeah, making things accessible. To what extent is, what I can do is, I think, kind of limited by, yeah, by funding, by copyright.",
+      "codes": [
+        "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT",
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "I don't. Yeah, I don't think I really worked with other people's, or used open data in that sense. Yeah. I mean, I just, I just didn't do that because it doesn't apply to my field.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "The participant's field (humanities) does not typically utilize open qualitative data for secondary analysis, suggesting a disciplinary gap or lack of perceived applicability."
+    },
+    {
+      "quote": "I looked at some resources, but I think it's difficult often, and I know that at least - so I didn't intrigue with someone. Basically, he was working on a project about, it's a repository that would be possibly created in the future for practice research data, or I guess, including other forms of data as well. Somebody, I also interviewed was saying that you'd like a musician and works with, you know, creating musical notes and stuff. He said that he just uploads them on YouTube and people can, you know, listen to it. So that would be a form of making it open. I think there isn't enough, I mean, because they are so specific. I think that isn't enough guidelines on that. I mean, yeah, you know that if you if you're working, yeah, with people - and into your participants, for example, you usually - you can't make that - all data open. But you can make a form of it then open. Um, yeah. I think it's, it's really, it's really difficult to define that.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The quote highlights the difficulty of finding sufficient, specific guidelines for diverse qualitative data types and the challenge of defining what 'open' means in these contexts, often leading to ad-hoc solutions."
+    },
+    {
+      "quote": "I think there are some, so [Redacted University name] has like a data repository and there's a data management team, and they have guidelines and you know how to upload data on there, but that's mainly yeah, quantitative files, I think.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "Existing institutional support and data repositories are primarily geared towards quantitative data, leaving qualitative researchers with insufficient tailored guidance."
+    },
+    {
+      "quote": "But I think it's, that isn't really like a repository - where - which is really focused on qualitative data. I think people just make up their own things often.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA"
+      ],
+      "inference": "The absence of dedicated qualitative data repositories leads researchers to create their own, often less standardized, ways of making data available."
+    },
+    {
+      "quote": "I think. Yeah. Developing Yeah, the guidelines would be, as you mentioned would be half lighting, which I think that there should be done once for specific research areas. You know, if you that would be a guideline on if you work with him and participants or conducting trees or if you create art products, or if you know, do this so,…I think That should be kind of for different kind of things.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I think more. Well, awareness, in the sense of for, for researchers themselves, that, and maybe, maybe that's something I kind of mentioned, that people in the arts and humanities don't really consider those things as data. So, to maybe - I don't know - if maybe open research, the whole concept of open research, needs needs, then new vocabulary for [it] to be more to save.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "The differing conceptualization of 'data' in arts and humanities and the resulting vocabulary misalignment act as barriers to adopting open research practices, suggesting a need for a more inclusive language."
+    },
+    {
+      "quote": "I think it's kind of started with STEM in mind, and I think it's still often STEM focus. So it would be nice to, I'm not quite sure exactly - have, but, to be more inclusive towards other art forms as other research forms formats. Yeah.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "The STEM-centric origin and current focus of the open research movement creates a barrier for other disciplines, especially in arts and humanities, highlighting a need for broader inclusivity."
+    },
+    {
+      "quote": "So yeah, we planned first. Yeah, we had an information sheet and consent form developed and had it be, and it was, it's all the [undecipherable] or, you know, on the University’s OneDrive, and that only people who work on their projects have access to. So that's a few of us, you know, including me. But I don't think even, so the video interviews I conducted - did, I really [were] only accessible to me? So, I'm the one who has, you know, watched them or has to replay them sometimes to get the transcript properly. Like what people are saying? So yeah, that was the planning phase, and then, and then we approached people. And then they, if they wanted to participate, they signed the consent form, responding in time on a Microsoft Teams [call], using the simulator recording and transcript, as in here. And, and then, I edited the transcript. First just have, you know, a question-answer, question-answer format, and then shortening that, and editing that to a format of the case study that, you know.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE"
+      ],
+      "inference": "The systematic planning of consent, secure data storage, and the practice of editing raw transcripts for case studies reflect proactive data management and adherence to 'as open as possible' principles to protect participants."
+    },
+    {
+      "quote": "because I was, right, I was doing that with another person and that person comes from a social - has a social science background. And I have, you know, English background - or my underground was in Media and Communications. So, getting my undergrad, I also did interviews and wrote them up for, you know, to articles as they would have a newspaper or format an interview, and I think he's - his background in social science research was quite different. The main heat in which he conducted into use, and I think that's much more focused on them. Not really editing about the people are saying and, you know, have any often it ended up being, I mean, you said that these - I don't know, they are not really about him personally, but that, you know at the beginning he had some complaints from those. I think two people who complained about that, the format of that case, it was not really edited and did not really, you know, it wasn't really what the participants wanted to look like. Yeah, it was, it was too raw in the sense and…mine was more edited, because I had more experience of writing it up for, like, a newspaper or like a blog or something and this was doing sources. I also participated before, like focus group interviews, where the transcript is really your words and you don't really edit what the people are saying.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "Disciplinary differences in how qualitative interview data are handled (e.g., editing vs. raw transcripts) lead to tensions, participant complaints, and potential misinterpretation, highlighting challenges in standardizing open practices across diverse fields."
+    }
+  ]
+}

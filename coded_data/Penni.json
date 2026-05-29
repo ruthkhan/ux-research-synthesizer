@@ -1,0 +1,193 @@
+{
+  "participant": "Penni",
+  "interview_timestamp": "2026-05-27T16:46:21.910535",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "We did use digital quality methods as well, so we use, we sort of call it digital ethnography. Oh yeah, it's debatable whether it is strictly that, but we ask participants to download an app and ask [them to] participate through the app, perhaps sharing videos with us or experiences, taking photographs over.",
+      "codes": [
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS"
+      ]
+    },
+    {
+      "quote": "Yeah, Nvivo, Excel, and Transcripts as well. Yeah, obviously we have all the different audio transcripts. We also have video data as well, when we're using apps. Photographic data, so yeah, it can be quite a challenge for people.",
+      "codes": [
+        "MULTIMODAL_AND_AUDIO_VISUAL_METHODS",
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ]
+    },
+    {
+      "quote": "I always enjoy it when we use theoretical frameworks in our research, because I think it does support. I think it just supports from the, particularly transparency and analysis, right? You know, we can say, like, this is how we, because sometimes, when we develop a code frame, there's all that she's like, “Well, how did you get to that code frame?” Whereas when you use a theoretical framework, you're just like, well, we're using this code frame because it links to this thing, framework. So yeah, that could be a really positive thing to do. It's funny. There are, surprisingly, I don't think there are about many, that have a really broad application in social research, convey is quite unusual in that way. And So yeah, I find it really helpful, particularly relating to, you know, it's the transparency amount in analysis. That's the critical factor.",
+      "codes": [
+        "QUALITATIVE_PRE_REGISTRATION",
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I don't have any experience of it at all, like in them, in the kind of work we do.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA"
+      ],
+      "inference": "The participant's agency has no experience with open qualitative research, indicating a general lack of engagement in this practice within their professional context."
+    },
+    {
+      "quote": "we try to convince them that it's not really worthwhile them having the whole qualitative set, because unless if they really want it, they can, you know, we don't object - but we we have to - we just sort of have to say to them, it's very onerous to anonymize a qualitative data set associated to pay for that.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "And yeah, it, then we have to cost in a couple of glorious business of anonymizing",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "we sample people who have very specific characteristics. And so, we might be specific. You know, something, people who are really vulnerable. Okay, in my organization, we do really fieldwork with people who are victims of domestic abuse and you know, all kinds of, you know, In very, you know, very difficult, no personal, you know, refugees, all kinds of, you know, precarious situations at one end of the scale",
+      "codes": [
+        "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS"
+      ]
+    },
+    {
+      "quote": "and [at] the other end of the scale, we also speak to really see the stakeholders who is, you know, I don't know how you can really effectively anonymize certain kinds of stakeholder interviews because it's It really could be only one of three people. He said that, and so I think that's it. That's a challenge of positive research, more broadly.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "One of the things that I think weakens qualitative data, qualitative data collection in that hierarchy is it's transparency, right? Like we can't. It's harder for us because of the nature of the data. We've collected to be open about, open in sharing that data.",
+      "codes": [
+        "EPISTEMIC_TENSIONS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "But then I think that also leads us not to be open about how we're doing our analysis as well, which I think is really problematic, because I think then it, you know, leads to all of these things. You know, all of the questions that you get about, you know, did just one person say that, or you know - all of the things that you know potentially we can then, you know, the idea of using qualitative data in a, in a research programme, and it also means that we maybe don't do enough about validation about data as well.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "I don't think we do enough about validation of our data, and that is a type of perhaps a time thing.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ]
+    },
+    {
+      "quote": "I'm currently working on a public inquiry. For this public inquiry, there is an impetus to make the data set open, ultimately that it sits in a national data archive. So, I think this is very positive.",
+      "codes": [
+        "CLIENT_OR_PROJECT_MANDATE_FOR_OPENNESS"
+      ]
+    },
+    {
+      "quote": "But how are we going to do it? I'm actually just coming back to work after maternity leave. So I've been back at work about a month and I've joined this project, which as I say, is a, it's a major public inquiry, and I can see that my colleagues [Named redacted], you know, we're happy to do that. And I thought, Well how, and that's fine, because the nature of research agency workers, we’re quite often, you know, the cliff. If our client says we absolutely need to do this, sometimes we will solve the ‘how’ problem a little bit later down the line.",
+      "codes": [
+        "CLIENT_OR_PROJECT_MANDATE_FOR_OPENNESS",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "are there the pups this will be what you generate ultimately, but are there two kids to support? Is there a code of good practice in generating open access data? And, you know, I want to talk to the National Data Archives, and just find out what is, you know, how, what are their requirements?",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "I need to work with our ethics panel to sort of understand the, what, you know, whether we can get to an agreement on what we think the limits of and optimization confidentiality ought to be, you know, do we have you know, we have agreed we have, we have participant consent for it.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "But we are not sending them their transcripts and saying can you go through this, redact any bits that you're not happy with and then give it back to us, and then we'll put it in the National Data Archive, because that would be unbelievably onerous. It's a very large scale project act, or should we be doing that? I don't, you know. And so you want participants to say, “Yeah, I'm happy to go for it to go to the national data for our camp, which might happen in two years time. Five years times”. Like that today, really know what they've said yes to you. I don't know.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "And also are they going to be comfortable with how anonymized it is? I think I guess that's that. I mean this is an inquiry that's big and taken on a you know, on a politically sensitive subject and that would cover very personal experiences of the individuals",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "So yeah, it would be good to have. It would be good to have guidance on how to get this, right?",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "you almost wonder if it would be helpful to have, like, you know, like a public voice on it, like, do we get, you know, members of the public have taken part in research, to sort of tell us what they think is an acceptable level? Or is it some kind of, you know, do we have some kind of debate on it, and you know, discussion with the public, because I wonder if that might sit with what you're trying to do. What do the public think is acceptable? Or what do your professional or senior stakeholders think is acceptable in terms of anonymization, confidentiality, transparency, when their data is put in a national archive, because it's totally different from survey things.",
+      "codes": [
+        "COLLABORATIVE_AND_PARTICIPATORY_CURATION"
+      ]
+    },
+    {
+      "quote": "I think, I think having a good practice guide, just some kind would be really helpful. ... and if that was somehow validated, by actually, the first to figure in that, like, you know, like the National Data Archives, so or… Trying to think. I mean, you know, the obvious thing is like the ONS or government social research. If they were able, you know, if they endorsed its approach, it would be really interesting to get GSR government, social research to engage with this.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "Do, do they just, just the government want those [people’s] data to be open access? I think that's fundamental for them, for the work I do, but also, you know, could having that data, you know that I don't know, there must be some really big, there would be some big questions there about what GSR would be trying to do if they were allowed allowing that?",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "But the qualitative data sets, not so much. But yeah, like there's no question that government is generating enormously valuable qualitative data sets through commissioning people like me, you know. [They] like us to generate qualitative evidence, so I mean, it will be political, but it'd be really interesting. Also to understand if they're are practical barriers as well as political ones. Or if it's just something they've just never thought of doing.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I suspect that our clients haven't really thought about open access. And how these data sets could be used for, you know, the wider, wider knowledge.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "I think the problem, I don't know, I think about it in practice, though. How up-to-date it is might be an issue. Because we're often, you know, we're dealing with public policy challenges that are happening now.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "It's very hard as well. Like, particularly in agency research where people are not necessarily qualitative specialists for them to be articulate, have the language at hand. I think language is really problematic in qualitative research, because, you know, we don't even consistently talk about coding. There are so many different words for coding and categories and etc, etc.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "No, it's something that I want to look into, and it's very much something that I'm going to be doing in the next few weeks is finding out more about it. But yeah, to my knowledge. I don't, yeah. So that's kind of interesting because I'm also on the board of the Social Research Association. So I'm quite involved in my kind of professional community as a qualitative researcher, but I'm not aware of it.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I don't think you'd see change in my end unless it came from government.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "It's not really fun, and I think maybe that;s, in that, to some level, speaks for yourself because I don't to my knowledge. It's not something we've done, and I've worked where I worked there, you know, 15 years now, and you know, I've been involved with, I mean it's a big organization. It's quite possible that that could have happened without me knowing, and, but even that, I'm sort of the core methods lead. I'd be surprised, but it's possible.",
+      "codes": [
+        "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA"
+      ]
+    },
+    {
+      "quote": "It's got to come from the client, you see? So this is a public inquiry. It's outside government. So, you know, think of something like the Granville Inquiry or something like that, it's that kind of thing. Yeah, so it sits outside of government, and… also there's a sort of public engagement transparency. There's an impetus to that. That just saying, look, we are being really open the way that the, it's been set up, is they have to. They're, you know, part of their mission statement. Part of their values is about being open, so I guess it's part of demonstrating that, now and…",
+      "codes": [
+        "CLIENT_OR_PROJECT_MANDATE_FOR_OPENNESS"
+      ]
+    }
+  ]
+}

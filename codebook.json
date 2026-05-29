@@ -1,0 +1,191 @@
+{
+  "TIME_AND_RESOURCE_CONSTRAINTS": {
+    "type": "barrier",
+    "definition": "The substantial extra labor, time, and budget required to process, edit, format, and archive complex qualitative data."
+  },
+  "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES": {
+    "type": "barrier",
+    "definition": "Difficulty of fully anonymizing highly detailed, qualitative, or audio-visual data without risking participant safety, political exposure, or identity disclosure."
+  },
+  "CONTEXTUAL_LOSS_AND_MISINTERPRETATION": {
+    "type": "barrier",
+    "definition": "The risk of secondary users misinterpreting qualitative data due to translation, cultural gaps, loss of tacit context, or non-standard transcription/note-taking."
+  },
+  "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES": {
+    "type": "barrier",
+    "definition": "Tensions with university copyright retention, publishing fees (APCs), and a lack of integrated open science reviews in doctoral and funding workflows."
+  },
+  "TECHNICAL_AND_SOFTWARE_LIMITATIONS": {
+    "type": "barrier",
+    "definition": "Lack of interoperability in qualitative analysis software (e.g., NVivo) and the physical hurdles of digitizing analog, paper-based methods."
+  },
+  "EPISTEMIC_TENSIONS": {
+    "type": "barrier",
+    "definition": "Epistemological misalignment between qualitative interpretive paradigms and positivist open science expectations such as replication or raw data extraction."
+  },
+  "REUSE_TRUST_AND_CONTROL_ANXIETIES": {
+    "type": "barrier",
+    "definition": "Anxieties regarding secondary researchers using open data unethically, extractively, or for purposes contradictory to the participants' and original researchers' interests."
+  },
+  "PROACTIVE_DATA_MANAGEMENT_PLANNING": {
+    "type": "practice",
+    "definition": "Integrating data archiving steps, file size calculations, and processing timelines directly into the early project budgeting phase.",
+    "links": [
+      "TIME_AND_RESOURCE_CONSTRAINTS",
+      "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+    ]
+  },
+  "COLLABORATIVE_AND_PARTICIPATORY_CURATION": {
+    "type": "practice",
+    "definition": "Engaging participants in editing, reviewing, or co-producing the final shareable datasets to protect identities while maintaining authenticity.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+    ]
+  },
+  "DYNAMIC_AND_VISUAL_CONSENT_PROCESSES": {
+    "type": "practice",
+    "definition": "Using visual aids, step-by-step diagrams, and ongoing dialogue to explain qualitative data flows and offer tailored, negotiable consent menus.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+    ]
+  },
+  "TEMPORAL_AND_EMBARGOED_ARCHIVING": {
+    "type": "practice",
+    "definition": "Utilizing long-term repository embargoes to store sensitive qualitative materials safely until immediate political or personal risks decline.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+    ]
+  },
+  "SECONDARY_USER_CONSULTATION_AND_CITATION": {
+    "type": "practice",
+    "definition": "Requiring secondary researchers to consult primary investigators and provide rigorous citation of archived datasets to preserve context.",
+    "links": [
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+      "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+    ]
+  },
+  "CROSS_CULTURAL_AND_VULNERABLE_POPULATIONS": {
+    "type": "context",
+    "definition": "Research contexts involving migrant, indigenous, or marginalized groups where state surveillance, legal issues, or political instability amplifies data exposure risks.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+    ]
+  },
+  "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS": {
+    "type": "context",
+    "definition": "Theoretical foundations prioritizing researcher positionality, relational complexities, and subjective readings of texts over scientific objectivity.",
+    "links": [
+      "EPISTEMIC_TENSIONS",
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+    ]
+  },
+  "MULTIMODAL_AND_AUDIO_VISUAL_METHODS": {
+    "type": "context",
+    "definition": "The use of video, photography, 360-degree cameras, and sensory methods that inherently capture deeply identifiable participant features.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+    ]
+  },
+  "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH": {
+    "type": "context",
+    "definition": "The provision of resources, guidance, and funding by academic institutions, such as libraries or dedicated programs, to facilitate the adoption of open research practices by researchers.",
+    "links": [
+      "TIME_AND_RESOURCE_CONSTRAINTS",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  },
+  "ADHERENCE_TO_AS_OPEN_AS_POSSIBLE_PRINCIPLE": {
+    "type": "practice",
+    "definition": "The guiding principle and practical commitment to make research data as openly available as possible while respecting ethical and confidentiality constraints, often summarized as 'as open as possible, as closed as necessary'.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+    ]
+  },
+  "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE": {
+    "type": "barrier",
+    "definition": "Insufficient or underdeveloped practical guidance and resources specifically tailored to the unique challenges of making qualitative data open, particularly regarding de-identification, formatting, and ethical considerations for complex qualitative data types.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+      "TECHNICAL_AND_SOFTWARE_LIMITATIONS",
+      "TIME_AND_RESOURCE_CONSTRAINTS"
+    ]
+  },
+  "QUALITATIVE_PRE_REGISTRATION": {
+    "type": "practice",
+    "definition": "The practice of formally documenting qualitative research design, plans, and evolving processes before data collection, often on platforms like OSF, to enhance transparency while acknowledging the iterative nature of qualitative inquiry.",
+    "links": [
+      "EPISTEMIC_TENSIONS"
+    ]
+  },
+  "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT": {
+    "type": "context",
+    "definition": "The enhanced ability for research participants and affected communities to access and engage with research findings and outputs, fostering direct knowledge dissemination and reciprocity, often serving as a motivation for open research practices.",
+    "links": [
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  },
+  "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA": {
+    "type": "barrier",
+    "definition": "The scarcity of readily accessible, well-described, and relevant open qualitative datasets for secondary analysis and reuse.",
+    "links": [
+      "TIME_AND_RESOURCE_CONSTRAINTS",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  },
+  "PARTICIPANT_DESIRE_FOR_IDENTIFICATION_AND_CREDIT": {
+    "type": "context",
+    "definition": "The specific situation where research participants, particularly from certain professional or community groups (e.g., artists), actively desire to be identified in the publicly shared research data or outputs, often for professional credit, recognition, or visibility, creating a tension with standard de-identification protocols.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+      "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT"
+    ]
+  },
+  "ADVOCACY_FOR_INTERDISCIPLINARY_OPEN_DATA": {
+    "type": "practice",
+    "definition": "The active promotion and demonstration of interdisciplinary research through the sharing of well-documented datasets, aiming to challenge disciplinary silos and provide concrete examples of effective cross-domain work.",
+    "links": [
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  },
+  "HUMANITIES_DISCIPLINARY_CONTEXT": {
+    "type": "context",
+    "definition": "The specific disciplinary context of humanities research, characterized by its unique methods, data types (e.g., artistic works, historical texts), and epistemological approaches, which inherently present distinct challenges and considerations for implementing open research practices.",
+    "links": [
+      "EPISTEMIC_TENSIONS",
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES",
+      "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+    ]
+  },
+  "PUBLIC_OUTREACH_AND_DISSEMINATION": {
+    "type": "practice",
+    "definition": "The active practice of translating and disseminating research findings, outputs, and ideas through public-facing channels such as blogs, podcasts, social media, workshops, or creative performances to make them accessible and digestible for non-academic audiences and the general public.",
+    "links": [
+      "INCREASED_PARTICIPANT_ACCESSIBILITY_AND_ENGAGEMENT",
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+    ]
+  },
+  "CLIENT_OR_PROJECT_MANDATE_FOR_OPENNESS": {
+    "type": "context",
+    "definition": "The situation where the client, funding body, or the inherent nature/mission of a specific research project (e.g., public inquiry, government mandate) explicitly requires or strongly values open data and transparency, making it a non-negotiable condition or core principle of the undertaking.",
+    "links": [
+      "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  },
+  "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS": {
+    "type": "context",
+    "definition": "The perceived benefits and motivations for engaging in open research practices, specifically highlighting how open access makes research more accessible, inclusive, and encourages greater utilization and collaboration among researchers.",
+    "links": [
+      "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
+      "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+    ]
+  }
+}

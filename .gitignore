@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+transcripts/
+briefs/
+23567223.zip
+PROJECT_CONTEXT.md

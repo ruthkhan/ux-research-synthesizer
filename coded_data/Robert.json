@@ -1,0 +1,99 @@
+{
+  "participant": "Robert",
+  "interview_timestamp": "2026-05-27T16:46:21.879084",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "First because I don't use consent forms, I use verbal consent - because of the kind of people I'm interviewing, or the kind of contexts I'm going to. It is hard to convince people that they should sign something for someone that they don't know.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The researcher highlights how rigid requirements for written consent in open research conflict with contextual and cultural practices where verbal consent and trust-building are paramount."
+    },
+    {
+      "quote": "I, also because I don't think that signing a consent form actually makes the research any more ethical, or so, that person. So, I'm no big fan of consent forms, and if they started considering archiving, then I would have had to do a consent form with the variety of boxes, because you can't just, you know, it's not that simple anymore.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The administrator complexity of multi-tiered consent forms required for data archiving acts as a systemic hurdle for qualitative researchers."
+    },
+    {
+      "quote": "And even if I [had] done a consent form, I decided, I wouldn't want to propose archiving because I think because I know from experience that people are very, they're very reliant on you as a person they trust.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ],
+      "inference": "The personal trust and rapport established between the primary researcher and the participants is seen as incompatible with sharing data with unknown secondary researchers."
+    },
+    {
+      "quote": "I do imagine a lot of people being like, you know, even if you anonymize the data, being uncomfortable. The idea that whatever they say is just going to be archived, that people can access. So yeah, that was more or less that the, the reasoning behind me, saying actually, no, I'm not going to go through archiving. I think, I think it's not the safest option.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The anticipation of participant discomfort with archiving directly prevents the researcher from pursuing open data, as a measure to protect participant comfort and ensure recruitment success."
+    },
+    {
+      "quote": "I don't think in qualitative methods, open data can have that sort of toolkit function. But yeah, that's something I think.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ],
+      "inference": "The researcher contrasts qualitative data with quantitative code and tools, arguing that qualitative data cannot serve the same functional, reuse-oriented role."
+    },
+    {
+      "quote": "one of my main arguments is saying, a lot of qualitative research is basically about description and they, they are reaching. They are tapping into causal relations, but because they are scared, not scared, but like shunning of the idea of doing quite causal analysis, which is something we associate with quantitative analysis, they don't have the capacity to leverage the causal insight that there is in their data, which brings me to think obviously if, then, I had open access to that data, you know, some other people could come and be like, no, but actually, if we, if we put a different frame, a different light to the same data, we can actually see that.",
+      "codes": [
+        "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS"
+      ],
+      "inference": "The researcher acknowledges the value of open qualitative data for secondary analysis, specifically for testing or establishing causal claims that the original authors might have avoided."
+    },
+    {
+      "quote": "But on the other hand, there's always another principle of qualitative research, is that the data doesn't speak for itself? That you're also the person that's been in the field and understood contextually what was going on in that interaction? And what those words mean in that context, in that country, whatever.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "But then, there's always a very reasonable way of just defending oneself by saying, you know, I was there, and I, this is my interpretation, and it's better than any other because I was the one to collect the data, and see all that whatever.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "I mean. I have funding for instance, from a private foundation, and you know, they got these regulations on how you have to publish. And for instance, they force me to [have] public open access. Not, not the data, but the, the, the research out itself,...",
+      "codes": [
+        "CLIENT_OR_PROJECT_MANDATE_FOR_OPENNESS"
+      ],
+      "inference": "The researcher identifies a publishing mandate from their funding body, though notes it is limited to publications rather than primary datasets."
+    },
+    {
+      "quote": "If it works, if it works like that, I definitely [would] be more likely, I guess. I definitely [would] be more likely to make you open access, because I'd be like, you know, in the end I can control who accesses the data, and it gives you a certain control over thinking, like, you know, I don't, I want to make sure that I would feel more comfortable. That could make sure that every person that accesses it is somebody working in an educational institution, for instance, or something other. And not somebody related to always going on the field in a way that could harm respondents.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES",
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "A managed access repository model where researchers can vet secondary users would alleviate fears of participant harm and unauthorized data reuse."
+    },
+    {
+      "quote": "For instance, I am, I'm also thinking from experience, because I interview, I've been in certain sites that are so, they're so small it is very easy for someone living there to to identify someone. If they transcript, it's almost impossible. To release a full transcript, and anonymise it to the point that you could actually retain the data without people in the same context, being able to identify the person that did the interview that you can control when you're just picking out some quotes and the anonymize those quotes, but I think it's completely impossible, if you just have to release the whole transcript, so, yeah, that's, yes.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "Within my university, what I had is, so this librarian I was talking to. She was very useful, she was really approachable, and she directed me to [a] series of, I think it was just, I think it was both from my university and resources from without, and she had written herself a series of blog posts on archiving, and whatever. That was very useful, and she had clearly, so I didn't know the resources but she made them available.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ]
+    },
+    {
+      "quote": "because nobody, so many, so much, so training in terms of time and resources, to go through the analysis of your own thing.",
+      "codes": [
+        "TIME_AND_RESOURCE_CONSTRAINTS"
+      ],
+      "inference": "The researcher emphasizes that analyzing secondary data takes significant effort, which is difficult to justify given constraints on time and analytical resources."
+    }
+  ]
+}
