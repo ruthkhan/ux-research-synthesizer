@@ -1,8 +1,8 @@
 # UX Research Synthesizer
 
-A Python pipeline that turns interview transcripts into a structured, queryable JSON dataset using grounded-theory style coding and schema-enforced LLM outputs.
+A Python pipeline that turns interview transcripts into a structured, queryable JSON dataset using schema-enforced LLM outputs.
 
-Built as part of a 60-day AI engineering bootcamp. Processes real academic interview data (15 participants, University of Sheffield / ORDA).
+Processes real academic interview data (15 participants, University of Sheffield / ORDA).
 
 ---
 
@@ -19,13 +19,11 @@ Given a folder of `.docx` interview transcripts, the script:
 
 ## Architecture decisions
 
-**Coded excerpts, not briefs.** Earlier versions generated narrative summaries ("briefs") per participant. This compounds LLM translation errors: the model paraphrases the transcript, then the synthesis re-interprets the paraphrase. The current design extracts verbatim quotes only — the LLM selects which quotes are relevant and assigns codes, but does not reword them.
+**Coded excerpts, not briefs.** Marrative summaries ("briefs") per participant compounds LLM translation errors: the model paraphrases the transcript, then the synthesis re-interprets the paraphrase. The current design extracts verbatim quotes only — the LLM selects which quotes are relevant and assigns codes, but does not reword them.
 
-**Batch codebook generation.** The codebook is generated from all 5 seed transcripts together in one call, not per-transcript then consolidated. This produces a leaner codebook (≤10 barriers, enforced) because the model can see cross-participant patterns rather than coding each person's idiosyncratic phrasing independently.
+**Batch codebook generation.** The codebook is generated from all 5 seed transcripts together in one call, not per-transcript then consolidated. This produces a leaner codebook because the model can see cross-participant patterns rather than coding each person's idiosyncratic phrasing independently.
 
 **Incremental production design.** The codebook is generated once and reused. New transcripts added later extend the codebook only if they introduce genuinely new concepts — the researcher reviews each proposal with a required justification field (`closest_existing_code` + `why_existing_code_fails`) before any new code is accepted.
-
-**No new codes on seed transcripts.** The first 5 transcripts cannot propose new codes at coding time — the codebook was built from them, so proposing new codes on them would indicate a gap in codebook generation, not a gap in the codebook.
 
 **Schema-enforced JSON.** All LLM outputs use Gemini's `response_schema` parameter for structural enforcement — no regex parsing, no brittle text extraction.
 
@@ -70,8 +68,8 @@ Given a folder of `.docx` interview transcripts, the script:
 
 ## Sample outputs
 
-- [`codebook.json`](codebook.json) — 15-code master codebook with barrier/practice/context classification and links
-- [`coded_data/`](coded_data/) — 13 participant JSON files
+- [`codebook.json`](codebook.json) — master codebook with barrier/practice/context classification and links
+- [`coded_data/`](coded_data/) — participant JSON files
 
 ---
 
