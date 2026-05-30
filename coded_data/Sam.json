@@ -1,0 +1,89 @@
+{
+  "participant": "Sam",
+  "interview_timestamp": "2026-05-27T16:46:21.889084",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "So what attracted me to this particular research that you're undertaking is because I work at a research-focused university where there is lots of support for, well, all sorts of kinds of open science, open data, and things like that. So, we have a data management team, for example, everyone's required to go on mandatory data management training. We are encouraged, indeed funded as a much more encouraging way to do data management plans, etc.",
+      "codes": [
+        "INSTITUTIONAL_SUPPORT_FOR_OPEN_RESEARCH"
+      ],
+      "inference": "The participant highlights how institutional resources, funding, and mandatory training at a research-focused university facilitate proactive data management planning."
+    },
+    {
+      "quote": "On the flip side. As my doctoral studies was with a teaching-based institution, which is much more teaching focused, [a] smaller institution, and there simply wasn't this level of support? I mean, simply just because of scale, really. So, That's where I was particularly interested in this piece of research because I felt that there was this gap or certainly this difference between the two universities that I've studied and worked and researched with, so I think there was both a lack of infrastructure and a lack of knowledge, as well in certain places.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ],
+      "inference": "Smaller or teaching-focused institutions often lack the necessary infrastructure, support staff, and training resources to help researchers engage in open data practices."
+    },
+    {
+      "quote": "I think in terms of qualitative research, I think it’s really important for transferability, for example. To some extent, reproducibility as well, in terms of reproducing methods, and ultimately building trust in the process.",
+      "codes": [
+        "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS"
+      ]
+    },
+    {
+      "quote": "And given that I, you know, look, you know, with that kind of interpretivist and relativist stance when I'm reading other people's research. I sometimes think, well, perhaps I would, Interpret that data differently and therefore having that open data, which is not always clear in the research output itself.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "I think there's a perception that is very difficult to do and reproducibility is less of an issue. And well, in fact, far more difficult with qualitative. And science, or not even scientists, just qualitative research full stop, which I would agree to some extent.",
+      "codes": [
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "and there's a lack of training on what is open in qualitative disciplines”, and qualitative research, and also, How can I make my research open in qualitative research, as well.",
+      "codes": [
+        "LACK_OF_QUALITATIVE_SPECIFIC_GUIDANCE"
+      ]
+    },
+    {
+      "quote": "I think this is where the data management plan really comes to the fore, because you can really think in granular detail about, you know, what you want to collect, who you're collecting it from, how you're gonna anonymize that data if necessary, or pseudonymize that data?",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    },
+    {
+      "quote": "There, of course is attention. Between, you know, if you're not anonymising, or if you're anonymising, the process to greater extent - does that then affect the, you know, the reliability of the research, or the transferability of the research, or what-have-you.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ],
+      "inference": "Over-anonymizing qualitative data to protect participants risks stripping away the context necessary for the research to remain reliable or transferable."
+    },
+    {
+      "quote": "so, to me, you know, as I said, there is this tension between making the process too anonymous, and therefore, you take away some of the meaning potentially, in the, in the findings, and the discussion, for example.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+      ]
+    },
+    {
+      "quote": "there are, you know, there are outputs that I have read and I simply cannot interpret that through my own eyes because I don't have enough, there's not enough detail in the 1,000 word article, for example, for me to actually really understand exactly how and why the research has been done, and how the interpretation of that research has come to the fore.",
+      "codes": [
+        "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS"
+      ]
+    },
+    {
+      "quote": "and you know, some of them tend to have been built, you know, on quantitative methodologies, etc., or to host quantitative research, and sometimes those repositories need tweaking for example, to, to fit a more qualitative dataset.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ],
+      "inference": "Existing data repositories are often optimized for quantitative data, presenting technical hurdles when trying to archive qualitative datasets."
+    },
+    {
+      "quote": "especially in some qualitative areas of research where you could have, you know, quite large data sets of information in terms of gigabytes of files and that sort of stuff. So, there needs to be that side of infrastructure, too, yeah.",
+      "codes": [
+        "TECHNICAL_AND_SOFTWARE_LIMITATIONS"
+      ]
+    },
+    {
+      "quote": "So start off with, the data management plan - and there, that, I start to think about consent and participant information sheets. I think about what sort of data I'm going to generate through the project.",
+      "codes": [
+        "PROACTIVE_DATA_MANAGEMENT_PLANNING"
+      ]
+    }
+  ]
+}

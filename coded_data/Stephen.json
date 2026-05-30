@@ -1,0 +1,83 @@
+{
+  "participant": "Stephen",
+  "interview_timestamp": "2026-05-27T16:46:21.898139",
+  "coding_mode": "closed",
+  "quotes": [
+    {
+      "quote": "And I'm now much more an interpretive researcher, and trying to make sense of practices.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ]
+    },
+    {
+      "quote": "My biggest issue about that would be the confidentiality issue. All the work that I do is with companies. In my case, mostly large companies, and, but also some smaller ones. And the data is shared on a confidential basis. Very rarely would we disclose the name of the organization. We may disguise the identity of the organization and maybe say it's in a different industry to the one that it sits in for confidentiality reasons, because companies are talking to us about what is potentially commercially sensitive information.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "My first thought, that I don't think I could have done any of the research that I've done, if I couldn't guarantee some level of confidentiality. And so, if that, that would certainly mean I couldn't pass on to anybody else the recordings or the transcripts. I could only publish the type of information that I had agreed with them.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "I fear to some extent, that if the analysis of that data was done by somebody who had no contact with the organization, with the people in the organization, it would be a very different understanding of that data, and in some ways, somewhat sterile. They would lose the depths that one can get from coupling the understanding of the organization with the data that we've collected from the organization.",
+      "codes": [
+        "CONTEXTUAL_LOSS_AND_MISINTERPRETATION",
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS"
+      ],
+      "inference": "The participant highlights how secondary analysis without direct contact with the field site leads to a loss of contextual depth and potential misinterpretation of qualitative data."
+    },
+    {
+      "quote": "I always emphasize the importance of a field diary. And recording other things that you say, and so on. And because the feelings that you get at the time may dissipate, and so, you write as much of that down as possible.",
+      "codes": [
+        "CONTEXTUAL_DOCUMENTATION_AND_REFLEXIVE_DIARIES"
+      ]
+    },
+    {
+      "quote": "And if at all possible, as soon as possible after the interview we'd have a debrief, as it were, and we discuss what we found and the issues and then that would be part of the recording. And then we'd have other meetings to discuss any recent interviews or whatever. So they will be recorded. So everything is getting recorded, and in a sense, it is available. And so that might be one way, whether the issues that we're thinking about could be available to a broader audience, and it's good.",
+      "codes": [
+        "CONTEXTUAL_DOCUMENTATION_AND_REFLEXIVE_DIARIES"
+      ]
+    },
+    {
+      "quote": "Because I guaranteed a confidentiality to people, I was looking at an organizations where they were undergoing change and there was resistance to change, and so on, and people were telling me things about why they didn't want to do this, or why this wasn't working and so on, and I guaranteed to them, I would, I wouldn't pass on what they told me to their colleagues. And I haven't really thought it through because it as I say, it was in my early days and when we got to the end of the project, we had a really good story to tell about resistance to change. But we couldn't tell it, not in a story, because to do so - and to publish details of the case - would more than likely have made it possible for colleagues to identify who said what - even if you change the context, and so on.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ],
+      "inference": "The participant describes how internal confidentiality (preventing colleagues within the same organization from identifying each other) is a major barrier to sharing detailed qualitative case study data."
+    },
+    {
+      "quote": "one of the things they said, if it has our name on it, it has to go through the lawyers. And if it's anonymized, even in a way that makes it clear [that] it is, they don't have the same concerns about it. Even if it's very open information, that they're happy to share. If their name is on it, it has to go through the lawyers before anything can be published about it, which is extreme, but yeah.",
+      "codes": [
+        "PARTICIPANT_HARM_AND_DE_IDENTIFICATION_CHALLENGES"
+      ]
+    },
+    {
+      "quote": "And we're increasingly looking at the different systems for ethical approval and how and how onerous that they can be. And that makes me also concerned about how an ethical and committed ethics committees will respond, in terms of information being made publicly available. We're under so much pressure as to what, you know, ethical procedures to be, so careful, particularly with GDPR and so on. How the information is stored, and how long it is stored for, where it is stored, and how we use that information. And so, I don't know quite how that would work with making interview data or whatever, open access.",
+      "codes": [
+        "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
+      ]
+    },
+    {
+      "quote": "No, ah, in some ways, one would think that that they could be a spurs of that because you need one. One would recognize that other people were seeing certain things differently, and so as a sort of philosophical research, philosophy level, and it would be, to be able to make it available - and people to draw other interpretations, and then to have broader debates on those interpretations. It would be taking us into the dimension, potentially, of multiparadigm research.",
+      "codes": [
+        "INTERPRETIVIST_AND_CONSTRUCTIVIST_PARADIGMS",
+        "EPISTEMIC_TENSIONS"
+      ]
+    },
+    {
+      "quote": "If it was available and relevant, I would use it.I don't have any, you know, any fundamental objection to it. It's very much a practical objection to it, and if some of it is available because of some particular issues of, and the practicalities. Yeah. I would use it, if relevant and so on.",
+      "codes": [
+        "VALUE_OF_OPEN_RESEARCH_FOR_RESEARCHERS"
+      ]
+    },
+    {
+      "quote": "The other side of it is the issue of protecting one's and intellectual property. And this applies equally to people who are doing any quantitative research... there are times when I was very conscious of people doing quantitative research, who were very reluctant to give, to present papers at conferences as ‘oh no, somebody might pinch my idea before I get it to a journal’ or something, and that sort of protection of intellectual property was problematic for some people.",
+      "codes": [
+        "REUSE_TRUST_AND_CONTROL_ANXIETIES"
+      ]
+    }
+  ]
+}

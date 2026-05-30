@@ -184,6 +184,7 @@ TRANSCRIPTS:
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
             response_schema=CODEBOOK_RESPONSE_SCHEMA,
+            temperature=0.0,
             system_instruction=(
                 "You are a qualitative research methodologist. Produce a lean, "
                 "non-redundant codebook. Merge barriers aggressively — max 10 total. "
@@ -263,6 +264,7 @@ TRANSCRIPT:
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
             response_schema=schema,
+            temperature=0.0,
             system_instruction=(
                 "You are an experienced qualitative research analyst. "
                 "Extract only relevant verbatim quotes — do not paraphrase. "

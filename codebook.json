@@ -187,5 +187,12 @@
       "LACK_OF_AVAILABLE_OPEN_QUALITATIVE_DATA",
       "INSTITUTIONAL_AND_PUBLISHING_SYSTEM_OBSTACLES"
     ]
+  },
+  "CONTEXTUAL_DOCUMENTATION_AND_REFLEXIVE_DIARIES": {
+    "type": "practice",
+    "definition": "The practice of keeping detailed field diaries, recording pre- and post-interview debriefs, and documenting researcher reflections to capture and preserve the tacit context of data collection for future reference or secondary users.",
+    "links": [
+      "CONTEXTUAL_LOSS_AND_MISINTERPRETATION"
+    ]
   }
 }
